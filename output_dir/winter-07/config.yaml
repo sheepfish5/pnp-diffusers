@@ -1,0 +1,12 @@
+device: cuda
+guidance_scale: 7.5
+image_path: input_dir/winter-07.jpg
+latents_path: latents_forward
+n_timesteps: 50
+negative_prompt: null
+output_path: output_dir/winter-07
+pnp_attn_t: 0.5
+pnp_f_t: 0.8
+prompt: A weeping willow stands by a road in a landscape at autumn
+sd_version: '2.1'
+seed: 1
