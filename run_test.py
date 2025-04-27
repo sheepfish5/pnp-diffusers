@@ -17,7 +17,8 @@ def latent_extraction(single_image: SingleImage):
            "--steps", "50", "--save-steps", "50",
            ]
     
-    subprocess.run(cmd, capture_output=True)
+    # subprocess.run(cmd, capture_output=True)
+    subprocess.run(cmd)
 
 def generate_config_yaml(single_image: SingleImage, target_season: Season) -> Path:
     """
@@ -66,7 +67,8 @@ def run_pnp(yaml_path: Path):
     cmd = ["python", "pnp.py",
            "--config_path", str(yaml_path),
            ]
-    subprocess.run(cmd, capture_output=True)
+    # subprocess.run(cmd, capture_output=True)
+    subprocess.run(cmd)
 
 def action(image_path: str, single_image: SingleImage):
 
