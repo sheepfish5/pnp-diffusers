@@ -35,7 +35,13 @@ class PNP(nn.Module):
         # Create SD models
         print('Loading SD model')
 
-        pipe = StableDiffusionPipeline.from_pretrained(model_key, torch_dtype=torch.float16).to("cuda")
+        # in my experiment, only use "stabilityai/stable-diffusion-2-1-base"
+        model_path = Path("./stable-diffusion-2-1-base")
+        if model_path.exists():
+            pipe = StableDiffusionPipeline.from_pretrained(str(model_path), torch_dtype=torch.float16).to("cuda")
+        else:
+            pipe = StableDiffusionPipeline.from_pretrained(model_key, torch_dtype=torch.float16).to("cuda")
+            pipe.save_pretrained("./stable-diffusion-2-1-base")
         pipe.enable_xformers_memory_efficient_attention()
 
         self.vae = pipe.vae
@@ -146,6 +152,8 @@ if __name__ == '__main__':
         yaml.dump(config, f)
     
     seed_everything(config["seed"])
+    if config["negative_prompt"] is None:
+        config["negative_prompt"] = ""
     print(config)
     pnp = PNP(config)
     pnp.run_pnp()

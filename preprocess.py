@@ -49,6 +49,11 @@ class Preprocess(nn.Module):
         else:
             raise ValueError(f'Stable-diffusion version {self.sd_version} not supported.')
 
+        # in my experiment, only use "stabilityai/stable-diffusion-2-1-base"
+        model_path = Path("./stable-diffusion-2-1-base")
+        if model_path.exists():
+            model_key = str(model_path)
+        
         # Create model
         self.vae = AutoencoderKL.from_pretrained(model_key, subfolder="vae", revision="fp16",
                                                  torch_dtype=torch.float16).to(self.device)
@@ -176,6 +181,7 @@ def run(opt):
         model_key = "runwayml/stable-diffusion-v1-5"
     elif opt.sd_version == 'depth':
         model_key = "stabilityai/stable-diffusion-2-depth"
+
     toy_scheduler = DDIMScheduler.from_pretrained(model_key, subfolder="scheduler")
     toy_scheduler.set_timesteps(opt.save_steps)
     timesteps_to_save, num_inference_steps = get_timesteps(toy_scheduler, num_inference_steps=opt.save_steps,
