@@ -14,7 +14,7 @@ def latent_extraction(single_image: SingleImage):
     cmd = ["python", "preprocess.py",
            "--data_path", data_path,
            "--inversion_prompt", inversion_prompt,
-           "--steps", 50, "--save-steps", 50,
+           "--steps", "50", "--save-steps", "50",
            ]
     
     subprocess.run(cmd, capture_output=True)
