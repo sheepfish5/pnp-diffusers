@@ -1,10 +1,10 @@
 # general
 seed: 1
 device: 'cuda'
-output_path: 'PNP-results/horse'
+output_path: 'PNP-results/summer-03'
 
 # data
-image_path: 'data/horse.jpg'
+image_path: 'data/03.jpg'
 latents_path: 'latents_forward'
 
 # diffusion
