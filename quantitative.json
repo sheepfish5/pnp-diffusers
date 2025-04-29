@@ -1,0 +1,350 @@
+{
+    "spring-01-to-summer": {
+        "lpips": 0.12336118519306183,
+        "clip_score": 29.848421096801758
+    },
+    "spring-01-to-autumn": {
+        "lpips": 0.16451048851013184,
+        "clip_score": 30.957599639892578
+    },
+    "spring-01-to-winter": {
+        "lpips": 0.12983356416225433,
+        "clip_score": 28.59721565246582
+    },
+    "spring-02-to-summer": {
+        "lpips": 0.11999627947807312,
+        "clip_score": 33.43363571166992
+    },
+    "spring-02-to-autumn": {
+        "lpips": 0.12119188159704208,
+        "clip_score": 33.634918212890625
+    },
+    "spring-02-to-winter": {
+        "lpips": 0.13990260660648346,
+        "clip_score": 34.39950180053711
+    },
+    "summer-01-to-spring": {
+        "lpips": 0.04369528219103813,
+        "clip_score": 31.220643997192383
+    },
+    "summer-01-to-autumn": {
+        "lpips": 0.046461526304483414,
+        "clip_score": 33.977264404296875
+    },
+    "summer-01-to-winter": {
+        "lpips": 0.05717084929347038,
+        "clip_score": 31.21560287475586
+    },
+    "summer-02-to-spring": {
+        "lpips": 0.09056080132722855,
+        "clip_score": 29.773563385009766
+    },
+    "summer-02-to-autumn": {
+        "lpips": 0.1261439323425293,
+        "clip_score": 31.156078338623047
+    },
+    "summer-02-to-winter": {
+        "lpips": 0.15888527035713196,
+        "clip_score": 29.24249267578125
+    },
+    "autumn-01-to-spring": {
+        "lpips": 0.15306603908538818,
+        "clip_score": 30.406293869018555
+    },
+    "autumn-01-to-summer": {
+        "lpips": 0.19134514033794403,
+        "clip_score": 30.093706130981445
+    },
+    "autumn-01-to-winter": {
+        "lpips": 0.183128222823143,
+        "clip_score": 31.480180740356445
+    },
+    "autumn-02-to-spring": {
+        "lpips": 0.11810146272182465,
+        "clip_score": 31.103694915771484
+    },
+    "autumn-02-to-summer": {
+        "lpips": 0.13657718896865845,
+        "clip_score": 31.277156829833984
+    },
+    "autumn-02-to-winter": {
+        "lpips": 0.1431412249803543,
+        "clip_score": 32.647735595703125
+    },
+    "winter-01-to-spring": {
+        "lpips": 0.07556533068418503,
+        "clip_score": 31.119441986083984
+    },
+    "winter-01-to-summer": {
+        "lpips": 0.11624301970005035,
+        "clip_score": 32.66667556762695
+    },
+    "winter-01-to-autumn": {
+        "lpips": 0.10840515792369843,
+        "clip_score": 31.671688079833984
+    },
+    "winter-02-to-spring": {
+        "lpips": 0.07558596879243851,
+        "clip_score": 31.311288833618164
+    },
+    "winter-02-to-summer": {
+        "lpips": 0.07695768773555756,
+        "clip_score": 29.988801956176758
+    },
+    "winter-02-to-autumn": {
+        "lpips": 0.12988464534282684,
+        "clip_score": 31.900569915771484
+    },
+    "spring-03-to-summer": {
+        "lpips": 0.11482687294483185,
+        "clip_score": 31.15629768371582
+    },
+    "spring-03-to-autumn": {
+        "lpips": 0.1578538566827774,
+        "clip_score": 33.37411880493164
+    },
+    "spring-03-to-winter": {
+        "lpips": 0.14575260877609253,
+        "clip_score": 32.58621597290039
+    },
+    "spring-04-to-summer": {
+        "lpips": 0.09527435153722763,
+        "clip_score": 31.041318893432617
+    },
+    "spring-04-to-autumn": {
+        "lpips": 0.13156968355178833,
+        "clip_score": 32.21754837036133
+    },
+    "spring-04-to-winter": {
+        "lpips": 0.1623598039150238,
+        "clip_score": 29.400814056396484
+    },
+    "spring-05-to-summer": {
+        "lpips": 0.1089072972536087,
+        "clip_score": 26.829715728759766
+    },
+    "spring-05-to-autumn": {
+        "lpips": 0.18947696685791016,
+        "clip_score": 30.58570671081543
+    },
+    "spring-05-to-winter": {
+        "lpips": 0.19623692333698273,
+        "clip_score": 27.92911148071289
+    },
+    "spring-06-to-summer": {
+        "lpips": 0.0815858244895935,
+        "clip_score": 31.930429458618164
+    },
+    "spring-06-to-autumn": {
+        "lpips": 0.10263635963201523,
+        "clip_score": 32.68987274169922
+    },
+    "spring-06-to-winter": {
+        "lpips": 0.07626271992921829,
+        "clip_score": 31.165847778320312
+    },
+    "spring-07-to-summer": {
+        "lpips": 0.11213497817516327,
+        "clip_score": 30.650053024291992
+    },
+    "spring-07-to-autumn": {
+        "lpips": 0.15563172101974487,
+        "clip_score": 33.13185119628906
+    },
+    "spring-07-to-winter": {
+        "lpips": 0.15509100258350372,
+        "clip_score": 33.777366638183594
+    },
+    "summer-03-to-spring": {
+        "lpips": 0.07600772380828857,
+        "clip_score": 31.306442260742188
+    },
+    "summer-03-to-autumn": {
+        "lpips": 0.10079887509346008,
+        "clip_score": 33.67665100097656
+    },
+    "summer-03-to-winter": {
+        "lpips": 0.10402897000312805,
+        "clip_score": 31.71810531616211
+    },
+    "summer-04-to-spring": {
+        "lpips": 0.06364156305789948,
+        "clip_score": 32.56667709350586
+    },
+    "summer-04-to-autumn": {
+        "lpips": 0.07492843270301819,
+        "clip_score": 34.839908599853516
+    },
+    "summer-04-to-winter": {
+        "lpips": 0.08484593033790588,
+        "clip_score": 32.81688690185547
+    },
+    "summer-05-to-spring": {
+        "lpips": 0.06253253668546677,
+        "clip_score": 30.923799514770508
+    },
+    "summer-05-to-autumn": {
+        "lpips": 0.07100914418697357,
+        "clip_score": 33.0608024597168
+    },
+    "summer-05-to-winter": {
+        "lpips": 0.08850917220115662,
+        "clip_score": 33.38829803466797
+    },
+    "summer-06-to-spring": {
+        "lpips": 0.08515562862157822,
+        "clip_score": 31.10186767578125
+    },
+    "summer-06-to-autumn": {
+        "lpips": 0.16374057531356812,
+        "clip_score": 32.63791275024414
+    },
+    "summer-06-to-winter": {
+        "lpips": 0.12204405665397644,
+        "clip_score": 33.06798553466797
+    },
+    "autumn-03-to-spring": {
+        "lpips": 0.11908640712499619,
+        "clip_score": 31.704769134521484
+    },
+    "autumn-03-to-summer": {
+        "lpips": 0.15625937283039093,
+        "clip_score": 30.60015106201172
+    },
+    "autumn-03-to-winter": {
+        "lpips": 0.1369916796684265,
+        "clip_score": 34.4084587097168
+    },
+    "autumn-04-to-spring": {
+        "lpips": 0.0668138861656189,
+        "clip_score": 34.42643737792969
+    },
+    "autumn-04-to-summer": {
+        "lpips": 0.06959282606840134,
+        "clip_score": 32.769683837890625
+    },
+    "autumn-04-to-winter": {
+        "lpips": 0.045555830001831055,
+        "clip_score": 33.87931442260742
+    },
+    "winter-03-to-spring": {
+        "lpips": 0.08126194030046463,
+        "clip_score": 32.69835662841797
+    },
+    "winter-03-to-summer": {
+        "lpips": 0.08724812418222427,
+        "clip_score": 32.8893928527832
+    },
+    "winter-03-to-autumn": {
+        "lpips": 0.10110461711883545,
+        "clip_score": 33.36502456665039
+    },
+    "winter-04-to-spring": {
+        "lpips": 0.08825146406888962,
+        "clip_score": 27.30022621154785
+    },
+    "winter-04-to-summer": {
+        "lpips": 0.136597141623497,
+        "clip_score": 31.42908477783203
+    },
+    "winter-04-to-autumn": {
+        "lpips": 0.1683875322341919,
+        "clip_score": 28.787723541259766
+    },
+    "winter-05-to-spring": {
+        "lpips": 0.11765957623720169,
+        "clip_score": 31.248764038085938
+    },
+    "winter-05-to-summer": {
+        "lpips": 0.14730983972549438,
+        "clip_score": 31.512454986572266
+    },
+    "winter-05-to-autumn": {
+        "lpips": 0.1619444042444229,
+        "clip_score": 32.32321548461914
+    },
+    "winter-06-to-spring": {
+        "lpips": 0.0841912180185318,
+        "clip_score": 29.039487838745117
+    },
+    "winter-06-to-summer": {
+        "lpips": 0.1288253664970398,
+        "clip_score": 31.46884536743164
+    },
+    "winter-06-to-autumn": {
+        "lpips": 0.1601315438747406,
+        "clip_score": 32.74287414550781
+    },
+    "winter-07-to-spring": {
+        "lpips": 0.08008893579244614,
+        "clip_score": 38.792259216308594
+    },
+    "winter-07-to-summer": {
+        "lpips": 0.1046142578125,
+        "clip_score": 38.926673889160156
+    },
+    "winter-07-to-autumn": {
+        "lpips": 0.13103961944580078,
+        "clip_score": 37.63759231567383
+    },
+    "winter-08-to-spring": {
+        "lpips": 0.1558040976524353,
+        "clip_score": 30.756250381469727
+    },
+    "winter-08-to-summer": {
+        "lpips": 0.16039608418941498,
+        "clip_score": 32.61747741699219
+    },
+    "winter-08-to-autumn": {
+        "lpips": 0.19398663938045502,
+        "clip_score": 32.265193939208984
+    },
+    "winter-09-to-spring": {
+        "lpips": 0.08243123441934586,
+        "clip_score": 33.790061950683594
+    },
+    "winter-09-to-summer": {
+        "lpips": 0.09220503270626068,
+        "clip_score": 33.57046127319336
+    },
+    "winter-09-to-autumn": {
+        "lpips": 0.13995417952537537,
+        "clip_score": 36.20872116088867
+    },
+    "winter-10-to-spring": {
+        "lpips": 0.07452989369630814,
+        "clip_score": 33.341251373291016
+    },
+    "winter-10-to-summer": {
+        "lpips": 0.10043144226074219,
+        "clip_score": 32.0026741027832
+    },
+    "winter-10-to-autumn": {
+        "lpips": 0.1252385675907135,
+        "clip_score": 34.18186569213867
+    },
+    "winter-11-to-spring": {
+        "lpips": 0.1544492542743683,
+        "clip_score": 35.137908935546875
+    },
+    "winter-11-to-summer": {
+        "lpips": 0.15299972891807556,
+        "clip_score": 34.24158477783203
+    },
+    "winter-11-to-autumn": {
+        "lpips": 0.21415011584758759,
+        "clip_score": 33.56648254394531
+    },
+    "winter-12-to-spring": {
+        "lpips": 0.06413586437702179,
+        "clip_score": 33.048248291015625
+    },
+    "winter-12-to-summer": {
+        "lpips": 0.06471644341945648,
+        "clip_score": 32.832759857177734
+    },
+    "winter-12-to-autumn": {
+        "lpips": 0.12135323882102966,
+        "clip_score": 33.542232513427734
+    }
+}

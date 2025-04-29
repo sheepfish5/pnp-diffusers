@@ -45,6 +45,8 @@ def search_target_image_path_by(source_image: SingleImage, target_season: Season
 counter = 0
 total_lpips = 0.0
 total_clipscore = 0.0
+# average_lpips = 0.11703788202213145
+# average_clipscore = 32.20402002882683
 
 SEASONS = [Season.SPRING, Season.SUMMER, Season.AUTUMN, Season.WINTER]
 def action(image_path: str, single_image: SingleImage):
