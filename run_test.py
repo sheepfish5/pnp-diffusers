@@ -50,8 +50,8 @@ prompt: "{single_image.prompt} at {target_season.value}"
 negative_prompt: 
 
 # pnp injection thresholds, ∈ [0, 1]
-pnp_attn_t: 0.5
-pnp_f_t: 0.8
+pnp_attn_t: 0.3
+pnp_f_t: 0.5
 """
     with open(yaml_path, 'w') as f:
         f.write(content)
