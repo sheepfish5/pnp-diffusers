@@ -48,6 +48,9 @@ total_clipscore = 0.0
 
 SEASONS = [Season.SPRING, Season.SUMMER, Season.AUTUMN, Season.WINTER]
 def action(image_path: str, single_image: SingleImage):
+
+    global counter, total_lpips, total_clipscore
+
     for target_season in SEASONS:
         if target_season == single_image.season: continue
 
