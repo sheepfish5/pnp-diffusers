@@ -1,0 +1,12 @@
+device: cuda
+guidance_scale: 7.5
+image_path: input_dir/winter-27.jpg
+latents_path: latents_forward
+n_timesteps: 50
+negative_prompt: null
+output_path: output_dir/winter-27
+pnp_attn_t: 0.3
+pnp_f_t: 0.5
+prompt: Sun shines above snow covered trees on snow at autumn
+sd_version: '2.1'
+seed: 1
