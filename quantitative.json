@@ -5,7 +5,7 @@
     },
     "spring-01-to-autumn": {
         "lpips": 0.19059477746486664,
-        "clip_score": 31.673070907592773
+        "clip_score": 31.673072814941406
     },
     "spring-01-to-winter": {
         "lpips": 0.1733936071395874,
@@ -13,23 +13,23 @@
     },
     "spring-02-to-summer": {
         "lpips": 0.14376291632652283,
-        "clip_score": 33.271881103515625
+        "clip_score": 33.271873474121094
     },
     "spring-02-to-autumn": {
         "lpips": 0.14552390575408936,
-        "clip_score": 34.033836364746094
+        "clip_score": 34.03383255004883
     },
     "spring-02-to-winter": {
         "lpips": 0.18131907284259796,
-        "clip_score": 35.17982482910156
+        "clip_score": 35.17981719970703
     },
     "summer-01-to-spring": {
         "lpips": 0.04674201458692551,
-        "clip_score": 31.18598175048828
+        "clip_score": 31.185977935791016
     },
     "summer-01-to-autumn": {
         "lpips": 0.05322346091270447,
-        "clip_score": 35.08952713012695
+        "clip_score": 35.08951950073242
     },
     "summer-01-to-winter": {
         "lpips": 0.06556448340415955,
@@ -37,11 +37,11 @@
     },
     "summer-02-to-spring": {
         "lpips": 0.1104632318019867,
-        "clip_score": 29.885921478271484
+        "clip_score": 29.885929107666016
     },
     "summer-02-to-autumn": {
         "lpips": 0.16131089627742767,
-        "clip_score": 31.986427307128906
+        "clip_score": 31.986431121826172
     },
     "summer-02-to-winter": {
         "lpips": 0.1872769147157669,
@@ -49,11 +49,11 @@
     },
     "autumn-01-to-spring": {
         "lpips": 0.2129526287317276,
-        "clip_score": 31.006229400634766
+        "clip_score": 31.006240844726562
     },
     "autumn-01-to-summer": {
         "lpips": 0.24721139669418335,
-        "clip_score": 31.178611755371094
+        "clip_score": 31.178613662719727
     },
     "autumn-01-to-winter": {
         "lpips": 0.23798298835754395,
@@ -81,15 +81,15 @@
     },
     "winter-01-to-autumn": {
         "lpips": 0.13031519949436188,
-        "clip_score": 32.53322982788086
+        "clip_score": 32.533226013183594
     },
     "winter-02-to-spring": {
         "lpips": 0.09147448092699051,
-        "clip_score": 30.690570831298828
+        "clip_score": 30.690574645996094
     },
     "winter-02-to-summer": {
         "lpips": 0.09196397662162781,
-        "clip_score": 30.90069580078125
+        "clip_score": 30.90070152282715
     },
     "winter-02-to-autumn": {
         "lpips": 0.1431008279323578,
@@ -97,7 +97,7 @@
     },
     "spring-03-to-summer": {
         "lpips": 0.15857267379760742,
-        "clip_score": 30.77142333984375
+        "clip_score": 30.771425247192383
     },
     "spring-03-to-autumn": {
         "lpips": 0.18946018815040588,
@@ -109,7 +109,7 @@
     },
     "spring-04-to-summer": {
         "lpips": 0.10406919568777084,
-        "clip_score": 31.25385093688965
+        "clip_score": 31.25384521484375
     },
     "spring-04-to-autumn": {
         "lpips": 0.1466488093137741,
@@ -121,15 +121,15 @@
     },
     "spring-05-to-summer": {
         "lpips": 0.1354590803384781,
-        "clip_score": 27.497419357299805
+        "clip_score": 27.497417449951172
     },
     "spring-05-to-autumn": {
         "lpips": 0.22926108539104462,
-        "clip_score": 31.07830810546875
+        "clip_score": 31.07831573486328
     },
     "spring-05-to-winter": {
         "lpips": 0.2345813363790512,
-        "clip_score": 30.107311248779297
+        "clip_score": 30.107316970825195
     },
     "spring-06-to-summer": {
         "lpips": 0.10587495565414429,
@@ -141,11 +141,11 @@
     },
     "spring-06-to-winter": {
         "lpips": 0.08374927937984467,
-        "clip_score": 31.9609317779541
+        "clip_score": 31.960933685302734
     },
     "spring-07-to-summer": {
         "lpips": 0.13100610673427582,
-        "clip_score": 31.01222801208496
+        "clip_score": 31.012226104736328
     },
     "spring-07-to-autumn": {
         "lpips": 0.1706460565328598,
@@ -169,19 +169,19 @@
     },
     "summer-04-to-spring": {
         "lpips": 0.06942309439182281,
-        "clip_score": 32.56297302246094
+        "clip_score": 32.562965393066406
     },
     "summer-04-to-autumn": {
         "lpips": 0.0850539281964302,
-        "clip_score": 35.711360931396484
+        "clip_score": 35.71135711669922
     },
     "summer-04-to-winter": {
         "lpips": 0.095528744161129,
-        "clip_score": 33.68961715698242
+        "clip_score": 33.68962097167969
     },
     "summer-05-to-spring": {
         "lpips": 0.07008543610572815,
-        "clip_score": 31.597885131835938
+        "clip_score": 31.597883224487305
     },
     "summer-05-to-autumn": {
         "lpips": 0.07640588283538818,
@@ -193,7 +193,7 @@
     },
     "summer-06-to-spring": {
         "lpips": 0.09042216092348099,
-        "clip_score": 31.666427612304688
+        "clip_score": 31.66642189025879
     },
     "summer-06-to-autumn": {
         "lpips": 0.1723344326019287,
@@ -205,11 +205,11 @@
     },
     "autumn-03-to-spring": {
         "lpips": 0.15279202163219452,
-        "clip_score": 32.094120025634766
+        "clip_score": 32.0941276550293
     },
     "autumn-03-to-summer": {
         "lpips": 0.1965426802635193,
-        "clip_score": 30.738025665283203
+        "clip_score": 30.7380313873291
     },
     "autumn-03-to-winter": {
         "lpips": 0.15831395983695984,
@@ -217,11 +217,11 @@
     },
     "autumn-04-to-spring": {
         "lpips": 0.07983763515949249,
-        "clip_score": 34.20336151123047
+        "clip_score": 34.203372955322266
     },
     "autumn-04-to-summer": {
         "lpips": 0.0869235098361969,
-        "clip_score": 32.578006744384766
+        "clip_score": 32.5780029296875
     },
     "autumn-04-to-winter": {
         "lpips": 0.055159419775009155,
@@ -229,11 +229,11 @@
     },
     "winter-03-to-spring": {
         "lpips": 0.09140842407941818,
-        "clip_score": 32.54392623901367
+        "clip_score": 32.543922424316406
     },
     "winter-03-to-summer": {
         "lpips": 0.10113038122653961,
-        "clip_score": 33.011878967285156
+        "clip_score": 33.01187515258789
     },
     "winter-03-to-autumn": {
         "lpips": 0.11726775020360947,
@@ -241,19 +241,19 @@
     },
     "winter-04-to-spring": {
         "lpips": 0.1249547153711319,
-        "clip_score": 27.30316734313965
+        "clip_score": 27.30317497253418
     },
     "winter-04-to-summer": {
         "lpips": 0.19011333584785461,
-        "clip_score": 30.998035430908203
+        "clip_score": 30.99803924560547
     },
     "winter-04-to-autumn": {
         "lpips": 0.2297453135251999,
-        "clip_score": 30.18742561340332
+        "clip_score": 30.187427520751953
     },
     "winter-05-to-spring": {
         "lpips": 0.14144635200500488,
-        "clip_score": 31.104448318481445
+        "clip_score": 31.10445213317871
     },
     "winter-05-to-summer": {
         "lpips": 0.17728179693222046,
@@ -261,11 +261,11 @@
     },
     "winter-05-to-autumn": {
         "lpips": 0.194846048951149,
-        "clip_score": 32.79924011230469
+        "clip_score": 32.79924774169922
     },
     "winter-06-to-spring": {
         "lpips": 0.11881158500909805,
-        "clip_score": 29.019588470458984
+        "clip_score": 29.019590377807617
     },
     "winter-06-to-summer": {
         "lpips": 0.17916221916675568,
@@ -281,27 +281,27 @@
     },
     "winter-07-to-summer": {
         "lpips": 0.13009552657604218,
-        "clip_score": 37.66693115234375
+        "clip_score": 37.666934967041016
     },
     "winter-07-to-autumn": {
         "lpips": 0.1560472846031189,
-        "clip_score": 37.29112243652344
+        "clip_score": 37.29113006591797
     },
     "winter-08-to-spring": {
         "lpips": 0.1725100725889206,
-        "clip_score": 30.74488067626953
+        "clip_score": 30.744876861572266
     },
     "winter-08-to-summer": {
         "lpips": 0.18740682303905487,
-        "clip_score": 34.4211540222168
+        "clip_score": 34.42115783691406
     },
     "winter-08-to-autumn": {
         "lpips": 0.22904165089130402,
-        "clip_score": 33.12141799926758
+        "clip_score": 33.121421813964844
     },
     "winter-09-to-spring": {
         "lpips": 0.09648020565509796,
-        "clip_score": 33.62983703613281
+        "clip_score": 33.62983322143555
     },
     "winter-09-to-summer": {
         "lpips": 0.1201053336262703,
@@ -317,7 +317,7 @@
     },
     "winter-10-to-summer": {
         "lpips": 0.1178538054227829,
-        "clip_score": 32.050392150878906
+        "clip_score": 32.05039596557617
     },
     "winter-10-to-autumn": {
         "lpips": 0.13718938827514648,
@@ -325,7 +325,7 @@
     },
     "winter-11-to-spring": {
         "lpips": 0.19653122127056122,
-        "clip_score": 34.89945602416992
+        "clip_score": 34.899444580078125
     },
     "winter-11-to-summer": {
         "lpips": 0.2064826786518097,
@@ -341,10 +341,2206 @@
     },
     "winter-12-to-summer": {
         "lpips": 0.08520340174436569,
-        "clip_score": 32.99272918701172
+        "clip_score": 32.99272537231445
     },
     "winter-12-to-autumn": {
         "lpips": 0.142554372549057,
         "clip_score": 34.02190399169922
+    },
+    "spring-08-to-summer": {
+        "lpips": 0.18308772146701813,
+        "clip_score": 29.510883331298828
+    },
+    "spring-08-to-autumn": {
+        "lpips": 0.22683997452259064,
+        "clip_score": 30.29684066772461
+    },
+    "spring-08-to-winter": {
+        "lpips": 0.25951823592185974,
+        "clip_score": 30.168745040893555
+    },
+    "spring-09-to-summer": {
+        "lpips": 0.1350124627351761,
+        "clip_score": 29.588245391845703
+    },
+    "spring-09-to-autumn": {
+        "lpips": 0.17101314663887024,
+        "clip_score": 30.068239212036133
+    },
+    "spring-09-to-winter": {
+        "lpips": 0.12887151539325714,
+        "clip_score": 28.61254119873047
+    },
+    "spring-10-to-summer": {
+        "lpips": 0.036511026322841644,
+        "clip_score": 29.701210021972656
+    },
+    "spring-10-to-autumn": {
+        "lpips": 0.027634218335151672,
+        "clip_score": 28.765859603881836
+    },
+    "spring-10-to-winter": {
+        "lpips": 0.024550694972276688,
+        "clip_score": 28.527143478393555
+    },
+    "spring-11-to-summer": {
+        "lpips": 0.12265964597463608,
+        "clip_score": 30.815279006958008
+    },
+    "spring-11-to-autumn": {
+        "lpips": 0.08897821605205536,
+        "clip_score": 31.955585479736328
+    },
+    "spring-11-to-winter": {
+        "lpips": 0.10968727618455887,
+        "clip_score": 32.2279052734375
+    },
+    "spring-12-to-summer": {
+        "lpips": 0.12824583053588867,
+        "clip_score": 30.864986419677734
+    },
+    "spring-12-to-autumn": {
+        "lpips": 0.12006861716508865,
+        "clip_score": 33.954715728759766
+    },
+    "spring-12-to-winter": {
+        "lpips": 0.14069238305091858,
+        "clip_score": 31.249221801757812
+    },
+    "spring-13-to-summer": {
+        "lpips": 0.09920727461576462,
+        "clip_score": 29.79037094116211
+    },
+    "spring-13-to-autumn": {
+        "lpips": 0.14547249674797058,
+        "clip_score": 30.773290634155273
+    },
+    "spring-13-to-winter": {
+        "lpips": 0.09692827612161636,
+        "clip_score": 29.341819763183594
+    },
+    "spring-14-to-summer": {
+        "lpips": 0.26342833042144775,
+        "clip_score": 31.73965835571289
+    },
+    "spring-14-to-autumn": {
+        "lpips": 0.23612873256206512,
+        "clip_score": 30.934337615966797
+    },
+    "spring-14-to-winter": {
+        "lpips": 0.22408142685890198,
+        "clip_score": 30.621862411499023
+    },
+    "spring-15-to-summer": {
+        "lpips": 0.10493343323469162,
+        "clip_score": 29.417457580566406
+    },
+    "spring-15-to-autumn": {
+        "lpips": 0.12343113869428635,
+        "clip_score": 30.93065071105957
+    },
+    "spring-15-to-winter": {
+        "lpips": 0.10677776485681534,
+        "clip_score": 28.344738006591797
+    },
+    "spring-16-to-summer": {
+        "lpips": 0.10583946108818054,
+        "clip_score": 29.290771484375
+    },
+    "spring-16-to-autumn": {
+        "lpips": 0.11910995841026306,
+        "clip_score": 30.868324279785156
+    },
+    "spring-16-to-winter": {
+        "lpips": 0.14145596325397491,
+        "clip_score": 26.826650619506836
+    },
+    "spring-17-to-summer": {
+        "lpips": 0.09737688302993774,
+        "clip_score": 31.276611328125
+    },
+    "spring-17-to-autumn": {
+        "lpips": 0.15688559412956238,
+        "clip_score": 32.424129486083984
+    },
+    "spring-17-to-winter": {
+        "lpips": 0.1294713169336319,
+        "clip_score": 32.98212432861328
+    },
+    "spring-18-to-summer": {
+        "lpips": 0.08036786317825317,
+        "clip_score": 28.956947326660156
+    },
+    "spring-18-to-autumn": {
+        "lpips": 0.10329973697662354,
+        "clip_score": 30.57970428466797
+    },
+    "spring-18-to-winter": {
+        "lpips": 0.10487490892410278,
+        "clip_score": 30.400218963623047
+    },
+    "spring-19-to-summer": {
+        "lpips": 0.18569186329841614,
+        "clip_score": 29.351749420166016
+    },
+    "spring-19-to-autumn": {
+        "lpips": 0.17408959567546844,
+        "clip_score": 29.895336151123047
+    },
+    "spring-19-to-winter": {
+        "lpips": 0.17138783633708954,
+        "clip_score": 27.121549606323242
+    },
+    "spring-20-to-summer": {
+        "lpips": 0.11099809408187866,
+        "clip_score": 29.973995208740234
+    },
+    "spring-20-to-autumn": {
+        "lpips": 0.09600692987442017,
+        "clip_score": 27.940345764160156
+    },
+    "spring-20-to-winter": {
+        "lpips": 0.08331339806318283,
+        "clip_score": 25.957822799682617
+    },
+    "spring-21-to-summer": {
+        "lpips": 0.13997335731983185,
+        "clip_score": 33.87961959838867
+    },
+    "spring-21-to-autumn": {
+        "lpips": 0.16558296978473663,
+        "clip_score": 34.283729553222656
+    },
+    "spring-21-to-winter": {
+        "lpips": 0.1640809327363968,
+        "clip_score": 32.28840637207031
+    },
+    "spring-22-to-summer": {
+        "lpips": 0.1624162346124649,
+        "clip_score": 30.170166015625
+    },
+    "spring-22-to-autumn": {
+        "lpips": 0.21937242150306702,
+        "clip_score": 32.24746322631836
+    },
+    "spring-22-to-winter": {
+        "lpips": 0.24519915878772736,
+        "clip_score": 30.714008331298828
+    },
+    "spring-23-to-summer": {
+        "lpips": 0.08531676232814789,
+        "clip_score": 32.007598876953125
+    },
+    "spring-23-to-autumn": {
+        "lpips": 0.08374068140983582,
+        "clip_score": 32.631526947021484
+    },
+    "spring-23-to-winter": {
+        "lpips": 0.09091490507125854,
+        "clip_score": 31.402433395385742
+    },
+    "spring-24-to-summer": {
+        "lpips": 0.12522415816783905,
+        "clip_score": 31.849475860595703
+    },
+    "spring-24-to-autumn": {
+        "lpips": 0.17875385284423828,
+        "clip_score": 32.05136489868164
+    },
+    "spring-24-to-winter": {
+        "lpips": 0.15643875300884247,
+        "clip_score": 31.767120361328125
+    },
+    "spring-25-to-summer": {
+        "lpips": 0.10568712651729584,
+        "clip_score": 33.03682327270508
+    },
+    "spring-25-to-autumn": {
+        "lpips": 0.10776306688785553,
+        "clip_score": 31.82925796508789
+    },
+    "spring-25-to-winter": {
+        "lpips": 0.10159444063901901,
+        "clip_score": 29.141420364379883
+    },
+    "spring-26-to-summer": {
+        "lpips": 0.04121357947587967,
+        "clip_score": 31.09214973449707
+    },
+    "spring-26-to-autumn": {
+        "lpips": 0.06332265585660934,
+        "clip_score": 32.92038345336914
+    },
+    "spring-26-to-winter": {
+        "lpips": 0.039719101041555405,
+        "clip_score": 31.177515029907227
+    },
+    "spring-27-to-summer": {
+        "lpips": 0.22513672709465027,
+        "clip_score": 32.83906173706055
+    },
+    "spring-27-to-autumn": {
+        "lpips": 0.2516629099845886,
+        "clip_score": 33.13837432861328
+    },
+    "spring-27-to-winter": {
+        "lpips": 0.21304571628570557,
+        "clip_score": 32.25611114501953
+    },
+    "spring-28-to-summer": {
+        "lpips": 0.18476372957229614,
+        "clip_score": 31.45845603942871
+    },
+    "spring-28-to-autumn": {
+        "lpips": 0.2031128853559494,
+        "clip_score": 32.949806213378906
+    },
+    "spring-28-to-winter": {
+        "lpips": 0.17475055158138275,
+        "clip_score": 31.602855682373047
+    },
+    "spring-29-to-summer": {
+        "lpips": 0.13196700811386108,
+        "clip_score": 32.08943557739258
+    },
+    "spring-29-to-autumn": {
+        "lpips": 0.15376165509223938,
+        "clip_score": 32.85839080810547
+    },
+    "spring-29-to-winter": {
+        "lpips": 0.17772643268108368,
+        "clip_score": 32.172428131103516
+    },
+    "spring-30-to-summer": {
+        "lpips": 0.1285826414823532,
+        "clip_score": 28.41619300842285
+    },
+    "spring-30-to-autumn": {
+        "lpips": 0.1277930587530136,
+        "clip_score": 30.826183319091797
+    },
+    "spring-30-to-winter": {
+        "lpips": 0.11871933937072754,
+        "clip_score": 30.452255249023438
+    },
+    "spring-31-to-summer": {
+        "lpips": 0.12534980475902557,
+        "clip_score": 33.13119125366211
+    },
+    "spring-31-to-autumn": {
+        "lpips": 0.10057581961154938,
+        "clip_score": 31.624805450439453
+    },
+    "spring-31-to-winter": {
+        "lpips": 0.09355199337005615,
+        "clip_score": 31.14495277404785
+    },
+    "spring-32-to-summer": {
+        "lpips": 0.23137235641479492,
+        "clip_score": 30.280437469482422
+    },
+    "spring-32-to-autumn": {
+        "lpips": 0.2896326184272766,
+        "clip_score": 30.4499568939209
+    },
+    "spring-32-to-winter": {
+        "lpips": 0.286654531955719,
+        "clip_score": 29.483938217163086
+    },
+    "spring-33-to-summer": {
+        "lpips": 0.11085392534732819,
+        "clip_score": 30.007474899291992
+    },
+    "spring-33-to-autumn": {
+        "lpips": 0.10127069056034088,
+        "clip_score": 30.13665008544922
+    },
+    "spring-33-to-winter": {
+        "lpips": 0.09556108713150024,
+        "clip_score": 29.960308074951172
+    },
+    "spring-34-to-summer": {
+        "lpips": 0.20173625648021698,
+        "clip_score": 28.45098304748535
+    },
+    "spring-34-to-autumn": {
+        "lpips": 0.2411968857049942,
+        "clip_score": 28.151124954223633
+    },
+    "spring-34-to-winter": {
+        "lpips": 0.1243743747472763,
+        "clip_score": 26.687475204467773
+    },
+    "spring-35-to-summer": {
+        "lpips": 0.18271955847740173,
+        "clip_score": 33.6922721862793
+    },
+    "spring-35-to-autumn": {
+        "lpips": 0.2108820378780365,
+        "clip_score": 34.10010528564453
+    },
+    "spring-35-to-winter": {
+        "lpips": 0.18129406869411469,
+        "clip_score": 35.75225067138672
+    },
+    "spring-36-to-summer": {
+        "lpips": 0.17771056294441223,
+        "clip_score": 35.30250930786133
+    },
+    "spring-36-to-autumn": {
+        "lpips": 0.136968731880188,
+        "clip_score": 34.15920639038086
+    },
+    "spring-36-to-winter": {
+        "lpips": 0.13718625903129578,
+        "clip_score": 33.596920013427734
+    },
+    "spring-37-to-summer": {
+        "lpips": 0.19765233993530273,
+        "clip_score": 28.787132263183594
+    },
+    "spring-37-to-autumn": {
+        "lpips": 0.19113773107528687,
+        "clip_score": 29.429662704467773
+    },
+    "spring-37-to-winter": {
+        "lpips": 0.2613644599914551,
+        "clip_score": 29.6991024017334
+    },
+    "spring-38-to-summer": {
+        "lpips": 0.07707579433917999,
+        "clip_score": 31.502300262451172
+    },
+    "spring-38-to-autumn": {
+        "lpips": 0.0779738649725914,
+        "clip_score": 30.940502166748047
+    },
+    "spring-38-to-winter": {
+        "lpips": 0.07363356649875641,
+        "clip_score": 31.328832626342773
+    },
+    "spring-39-to-summer": {
+        "lpips": 0.13138802349567413,
+        "clip_score": 31.120502471923828
+    },
+    "spring-39-to-autumn": {
+        "lpips": 0.1783810257911682,
+        "clip_score": 32.00856399536133
+    },
+    "spring-39-to-winter": {
+        "lpips": 0.19059008359909058,
+        "clip_score": 31.512868881225586
+    },
+    "spring-40-to-summer": {
+        "lpips": 0.1775842159986496,
+        "clip_score": 36.17068099975586
+    },
+    "spring-40-to-autumn": {
+        "lpips": 0.18513774871826172,
+        "clip_score": 34.93122482299805
+    },
+    "spring-40-to-winter": {
+        "lpips": 0.18723289668560028,
+        "clip_score": 34.67987060546875
+    },
+    "spring-41-to-summer": {
+        "lpips": 0.12226071208715439,
+        "clip_score": 30.376693725585938
+    },
+    "spring-41-to-autumn": {
+        "lpips": 0.13715150952339172,
+        "clip_score": 29.739219665527344
+    },
+    "spring-41-to-winter": {
+        "lpips": 0.2008964717388153,
+        "clip_score": 30.76079559326172
+    },
+    "spring-42-to-summer": {
+        "lpips": 0.13642200827598572,
+        "clip_score": 35.56196212768555
+    },
+    "spring-42-to-autumn": {
+        "lpips": 0.13122618198394775,
+        "clip_score": 33.9958610534668
+    },
+    "spring-42-to-winter": {
+        "lpips": 0.13893184065818787,
+        "clip_score": 35.15076446533203
+    },
+    "spring-43-to-summer": {
+        "lpips": 0.10762111097574234,
+        "clip_score": 31.546480178833008
+    },
+    "spring-43-to-autumn": {
+        "lpips": 0.1265009045600891,
+        "clip_score": 33.12400817871094
+    },
+    "spring-43-to-winter": {
+        "lpips": 0.11648310720920563,
+        "clip_score": 32.7725830078125
+    },
+    "spring-44-to-summer": {
+        "lpips": 0.11381370574235916,
+        "clip_score": 31.43690299987793
+    },
+    "spring-44-to-autumn": {
+        "lpips": 0.17369624972343445,
+        "clip_score": 31.027725219726562
+    },
+    "spring-44-to-winter": {
+        "lpips": 0.22895468771457672,
+        "clip_score": 28.983997344970703
+    },
+    "spring-45-to-summer": {
+        "lpips": 0.20599815249443054,
+        "clip_score": 30.376953125
+    },
+    "spring-45-to-autumn": {
+        "lpips": 0.2004767805337906,
+        "clip_score": 32.4990348815918
+    },
+    "spring-45-to-winter": {
+        "lpips": 0.1652229130268097,
+        "clip_score": 31.238826751708984
+    },
+    "spring-46-to-summer": {
+        "lpips": 0.3199630677700043,
+        "clip_score": 32.02415084838867
+    },
+    "spring-46-to-autumn": {
+        "lpips": 0.2374187409877777,
+        "clip_score": 33.20783615112305
+    },
+    "spring-46-to-winter": {
+        "lpips": 0.25890588760375977,
+        "clip_score": 31.944543838500977
+    },
+    "spring-47-to-summer": {
+        "lpips": 0.15996107459068298,
+        "clip_score": 30.83873748779297
+    },
+    "spring-47-to-autumn": {
+        "lpips": 0.16956385970115662,
+        "clip_score": 31.063369750976562
+    },
+    "spring-47-to-winter": {
+        "lpips": 0.129136860370636,
+        "clip_score": 31.877037048339844
+    },
+    "spring-48-to-summer": {
+        "lpips": 0.10619616508483887,
+        "clip_score": 30.041149139404297
+    },
+    "spring-48-to-autumn": {
+        "lpips": 0.11078130453824997,
+        "clip_score": 28.538476943969727
+    },
+    "spring-48-to-winter": {
+        "lpips": 0.11456142365932465,
+        "clip_score": 29.088520050048828
+    },
+    "spring-49-to-summer": {
+        "lpips": 0.1467345952987671,
+        "clip_score": 29.781898498535156
+    },
+    "spring-49-to-autumn": {
+        "lpips": 0.16027086973190308,
+        "clip_score": 29.51679229736328
+    },
+    "spring-49-to-winter": {
+        "lpips": 0.1319618672132492,
+        "clip_score": 27.84518051147461
+    },
+    "spring-50-to-summer": {
+        "lpips": 0.13289563357830048,
+        "clip_score": 33.36167907714844
+    },
+    "spring-50-to-autumn": {
+        "lpips": 0.15013602375984192,
+        "clip_score": 31.98236846923828
+    },
+    "spring-50-to-winter": {
+        "lpips": 0.10302682220935822,
+        "clip_score": 31.29662322998047
+    },
+    "spring-51-to-summer": {
+        "lpips": 0.18327777087688446,
+        "clip_score": 29.210567474365234
+    },
+    "spring-51-to-autumn": {
+        "lpips": 0.22487741708755493,
+        "clip_score": 29.616987228393555
+    },
+    "spring-51-to-winter": {
+        "lpips": 0.19986620545387268,
+        "clip_score": 31.634225845336914
+    },
+    "spring-52-to-summer": {
+        "lpips": 0.14777305722236633,
+        "clip_score": 26.258817672729492
+    },
+    "spring-52-to-autumn": {
+        "lpips": 0.10586238652467728,
+        "clip_score": 27.62369728088379
+    },
+    "spring-52-to-winter": {
+        "lpips": 0.1369420439004898,
+        "clip_score": 26.106184005737305
+    },
+    "spring-53-to-summer": {
+        "lpips": 0.10283702611923218,
+        "clip_score": 30.5017147064209
+    },
+    "spring-53-to-autumn": {
+        "lpips": 0.1020175963640213,
+        "clip_score": 30.651599884033203
+    },
+    "spring-53-to-winter": {
+        "lpips": 0.11059567332267761,
+        "clip_score": 30.340763092041016
+    },
+    "summer-07-to-spring": {
+        "lpips": 0.10732106864452362,
+        "clip_score": 30.1909236907959
+    },
+    "summer-07-to-autumn": {
+        "lpips": 0.09022142738103867,
+        "clip_score": 28.90351104736328
+    },
+    "summer-07-to-winter": {
+        "lpips": 0.09222438186407089,
+        "clip_score": 28.84323501586914
+    },
+    "summer-08-to-spring": {
+        "lpips": 0.1612599790096283,
+        "clip_score": 30.89895248413086
+    },
+    "summer-08-to-autumn": {
+        "lpips": 0.17741595208644867,
+        "clip_score": 32.9052734375
+    },
+    "summer-08-to-winter": {
+        "lpips": 0.16069290041923523,
+        "clip_score": 29.53718376159668
+    },
+    "summer-09-to-spring": {
+        "lpips": 0.1320214718580246,
+        "clip_score": 33.27862548828125
+    },
+    "summer-09-to-autumn": {
+        "lpips": 0.15455196797847748,
+        "clip_score": 33.72506332397461
+    },
+    "summer-09-to-winter": {
+        "lpips": 0.1158003881573677,
+        "clip_score": 32.728660583496094
+    },
+    "summer-10-to-spring": {
+        "lpips": 0.17279279232025146,
+        "clip_score": 30.166091918945312
+    },
+    "summer-10-to-autumn": {
+        "lpips": 0.2193901240825653,
+        "clip_score": 31.019887924194336
+    },
+    "summer-10-to-winter": {
+        "lpips": 0.21108733117580414,
+        "clip_score": 28.304466247558594
+    },
+    "summer-11-to-spring": {
+        "lpips": 0.14630329608917236,
+        "clip_score": 33.482181549072266
+    },
+    "summer-11-to-autumn": {
+        "lpips": 0.18986093997955322,
+        "clip_score": 33.025203704833984
+    },
+    "summer-11-to-winter": {
+        "lpips": 0.11840356886386871,
+        "clip_score": 34.815128326416016
+    },
+    "summer-12-to-spring": {
+        "lpips": 0.11025919020175934,
+        "clip_score": 30.786806106567383
+    },
+    "summer-12-to-autumn": {
+        "lpips": 0.21720948815345764,
+        "clip_score": 32.179107666015625
+    },
+    "summer-12-to-winter": {
+        "lpips": 0.1656103879213333,
+        "clip_score": 29.198759078979492
+    },
+    "summer-13-to-spring": {
+        "lpips": 0.13961033523082733,
+        "clip_score": 30.082651138305664
+    },
+    "summer-13-to-autumn": {
+        "lpips": 0.19784007966518402,
+        "clip_score": 32.887046813964844
+    },
+    "summer-13-to-winter": {
+        "lpips": 0.12475297600030899,
+        "clip_score": 31.197818756103516
+    },
+    "summer-14-to-spring": {
+        "lpips": 0.06754451245069504,
+        "clip_score": 30.60729217529297
+    },
+    "summer-14-to-autumn": {
+        "lpips": 0.09079670161008835,
+        "clip_score": 31.784196853637695
+    },
+    "summer-14-to-winter": {
+        "lpips": 0.07322496175765991,
+        "clip_score": 29.863283157348633
+    },
+    "summer-15-to-spring": {
+        "lpips": 0.06124544516205788,
+        "clip_score": 30.80654525756836
+    },
+    "summer-15-to-autumn": {
+        "lpips": 0.07493308186531067,
+        "clip_score": 32.51517105102539
+    },
+    "summer-15-to-winter": {
+        "lpips": 0.06560539454221725,
+        "clip_score": 30.955045700073242
+    },
+    "summer-16-to-spring": {
+        "lpips": 0.19636498391628265,
+        "clip_score": 30.989885330200195
+    },
+    "summer-16-to-autumn": {
+        "lpips": 0.1666582226753235,
+        "clip_score": 32.2960205078125
+    },
+    "summer-16-to-winter": {
+        "lpips": 0.22849243879318237,
+        "clip_score": 34.0443115234375
+    },
+    "summer-17-to-spring": {
+        "lpips": 0.11838360130786896,
+        "clip_score": 31.460397720336914
+    },
+    "summer-17-to-autumn": {
+        "lpips": 0.16192865371704102,
+        "clip_score": 32.648380279541016
+    },
+    "summer-17-to-winter": {
+        "lpips": 0.1874900609254837,
+        "clip_score": 30.385738372802734
+    },
+    "summer-18-to-spring": {
+        "lpips": 0.13902504742145538,
+        "clip_score": 30.937204360961914
+    },
+    "summer-18-to-autumn": {
+        "lpips": 0.16672027111053467,
+        "clip_score": 31.99150848388672
+    },
+    "summer-18-to-winter": {
+        "lpips": 0.17077578604221344,
+        "clip_score": 30.210369110107422
+    },
+    "summer-19-to-spring": {
+        "lpips": 0.13259264826774597,
+        "clip_score": 31.988250732421875
+    },
+    "summer-19-to-autumn": {
+        "lpips": 0.1761494129896164,
+        "clip_score": 32.99518585205078
+    },
+    "summer-19-to-winter": {
+        "lpips": 0.17509156465530396,
+        "clip_score": 33.42559814453125
+    },
+    "summer-20-to-spring": {
+        "lpips": 0.11822787672281265,
+        "clip_score": 32.24404525756836
+    },
+    "summer-20-to-autumn": {
+        "lpips": 0.1431892365217209,
+        "clip_score": 33.05071258544922
+    },
+    "summer-20-to-winter": {
+        "lpips": 0.13768233358860016,
+        "clip_score": 31.439729690551758
+    },
+    "summer-21-to-spring": {
+        "lpips": 0.11070413142442703,
+        "clip_score": 29.815032958984375
+    },
+    "summer-21-to-autumn": {
+        "lpips": 0.11680430173873901,
+        "clip_score": 30.752456665039062
+    },
+    "summer-21-to-winter": {
+        "lpips": 0.1215282678604126,
+        "clip_score": 29.29269027709961
+    },
+    "summer-22-to-spring": {
+        "lpips": 0.07646553218364716,
+        "clip_score": 27.587360382080078
+    },
+    "summer-22-to-autumn": {
+        "lpips": 0.08053836971521378,
+        "clip_score": 30.120819091796875
+    },
+    "summer-22-to-winter": {
+        "lpips": 0.05677793174982071,
+        "clip_score": 25.69811248779297
+    },
+    "summer-23-to-spring": {
+        "lpips": 0.145176962018013,
+        "clip_score": 26.948392868041992
+    },
+    "summer-23-to-autumn": {
+        "lpips": 0.18772101402282715,
+        "clip_score": 29.794124603271484
+    },
+    "summer-23-to-winter": {
+        "lpips": 0.2192200869321823,
+        "clip_score": 29.71816062927246
+    },
+    "summer-24-to-spring": {
+        "lpips": 0.15961873531341553,
+        "clip_score": 31.944456100463867
+    },
+    "summer-24-to-autumn": {
+        "lpips": 0.23475593328475952,
+        "clip_score": 33.4134407043457
+    },
+    "summer-24-to-winter": {
+        "lpips": 0.20386847853660583,
+        "clip_score": 34.60359191894531
+    },
+    "summer-25-to-spring": {
+        "lpips": 0.12056346237659454,
+        "clip_score": 34.11735916137695
+    },
+    "summer-25-to-autumn": {
+        "lpips": 0.12637057900428772,
+        "clip_score": 32.82460021972656
+    },
+    "summer-25-to-winter": {
+        "lpips": 0.12955988943576813,
+        "clip_score": 33.59374237060547
+    },
+    "summer-26-to-spring": {
+        "lpips": 0.16163577139377594,
+        "clip_score": 30.168365478515625
+    },
+    "summer-26-to-autumn": {
+        "lpips": 0.13806401193141937,
+        "clip_score": 30.69795036315918
+    },
+    "summer-26-to-winter": {
+        "lpips": 0.1622684895992279,
+        "clip_score": 29.88632583618164
+    },
+    "summer-27-to-spring": {
+        "lpips": 0.10324134677648544,
+        "clip_score": 29.827442169189453
+    },
+    "summer-27-to-autumn": {
+        "lpips": 0.10734125226736069,
+        "clip_score": 32.855262756347656
+    },
+    "summer-27-to-winter": {
+        "lpips": 0.1386999934911728,
+        "clip_score": 31.170696258544922
+    },
+    "summer-28-to-spring": {
+        "lpips": 0.12474846839904785,
+        "clip_score": 31.079572677612305
+    },
+    "summer-28-to-autumn": {
+        "lpips": 0.145697683095932,
+        "clip_score": 33.20280838012695
+    },
+    "summer-28-to-winter": {
+        "lpips": 0.15486793220043182,
+        "clip_score": 31.456514358520508
+    },
+    "summer-29-to-spring": {
+        "lpips": 0.10106982290744781,
+        "clip_score": 32.53007888793945
+    },
+    "summer-29-to-autumn": {
+        "lpips": 0.09905155003070831,
+        "clip_score": 31.71571159362793
+    },
+    "summer-29-to-winter": {
+        "lpips": 0.09267346560955048,
+        "clip_score": 32.00767517089844
+    },
+    "summer-30-to-spring": {
+        "lpips": 0.1834111362695694,
+        "clip_score": 29.419225692749023
+    },
+    "summer-30-to-autumn": {
+        "lpips": 0.17720934748649597,
+        "clip_score": 33.86668395996094
+    },
+    "summer-30-to-winter": {
+        "lpips": 0.18829138576984406,
+        "clip_score": 31.388763427734375
+    },
+    "summer-31-to-spring": {
+        "lpips": 0.1568865180015564,
+        "clip_score": 34.01022720336914
+    },
+    "summer-31-to-autumn": {
+        "lpips": 0.16366344690322876,
+        "clip_score": 35.21295928955078
+    },
+    "summer-31-to-winter": {
+        "lpips": 0.16081950068473816,
+        "clip_score": 34.72679138183594
+    },
+    "summer-32-to-spring": {
+        "lpips": 0.17009949684143066,
+        "clip_score": 31.121736526489258
+    },
+    "summer-32-to-autumn": {
+        "lpips": 0.2172362208366394,
+        "clip_score": 33.17267990112305
+    },
+    "summer-32-to-winter": {
+        "lpips": 0.1451490819454193,
+        "clip_score": 32.1291618347168
+    },
+    "summer-33-to-spring": {
+        "lpips": 0.06178288161754608,
+        "clip_score": 30.592166900634766
+    },
+    "summer-33-to-autumn": {
+        "lpips": 0.05793233960866928,
+        "clip_score": 32.12006759643555
+    },
+    "summer-33-to-winter": {
+        "lpips": 0.056607820093631744,
+        "clip_score": 29.13498306274414
+    },
+    "summer-34-to-spring": {
+        "lpips": 0.17746877670288086,
+        "clip_score": 33.52070617675781
+    },
+    "summer-34-to-autumn": {
+        "lpips": 0.20417332649230957,
+        "clip_score": 32.665225982666016
+    },
+    "summer-34-to-winter": {
+        "lpips": 0.20330306887626648,
+        "clip_score": 31.89547348022461
+    },
+    "summer-35-to-spring": {
+        "lpips": 0.1661192774772644,
+        "clip_score": 31.062885284423828
+    },
+    "summer-35-to-autumn": {
+        "lpips": 0.16887158155441284,
+        "clip_score": 32.2519645690918
+    },
+    "summer-35-to-winter": {
+        "lpips": 0.1653822958469391,
+        "clip_score": 31.031841278076172
+    },
+    "summer-36-to-spring": {
+        "lpips": 0.10911928862333298,
+        "clip_score": 29.85776138305664
+    },
+    "summer-36-to-autumn": {
+        "lpips": 0.08882323652505875,
+        "clip_score": 30.493968963623047
+    },
+    "summer-36-to-winter": {
+        "lpips": 0.15108223259449005,
+        "clip_score": 31.511310577392578
+    },
+    "summer-37-to-spring": {
+        "lpips": 0.07964164018630981,
+        "clip_score": 31.930156707763672
+    },
+    "summer-37-to-autumn": {
+        "lpips": 0.08961176872253418,
+        "clip_score": 32.11817932128906
+    },
+    "summer-37-to-winter": {
+        "lpips": 0.07738212496042252,
+        "clip_score": 31.178560256958008
+    },
+    "summer-38-to-spring": {
+        "lpips": 0.07547636330127716,
+        "clip_score": 31.416671752929688
+    },
+    "summer-38-to-autumn": {
+        "lpips": 0.0742383748292923,
+        "clip_score": 30.103429794311523
+    },
+    "summer-38-to-winter": {
+        "lpips": 0.06611809879541397,
+        "clip_score": 30.338916778564453
+    },
+    "summer-39-to-spring": {
+        "lpips": 0.2045612335205078,
+        "clip_score": 33.61607360839844
+    },
+    "summer-39-to-autumn": {
+        "lpips": 0.20068120956420898,
+        "clip_score": 33.505706787109375
+    },
+    "summer-39-to-winter": {
+        "lpips": 0.19726145267486572,
+        "clip_score": 32.280548095703125
+    },
+    "summer-40-to-spring": {
+        "lpips": 0.10226066410541534,
+        "clip_score": 29.580772399902344
+    },
+    "summer-40-to-autumn": {
+        "lpips": 0.176981121301651,
+        "clip_score": 29.487600326538086
+    },
+    "summer-40-to-winter": {
+        "lpips": 0.15517905354499817,
+        "clip_score": 27.984289169311523
+    },
+    "summer-41-to-spring": {
+        "lpips": 0.16719481348991394,
+        "clip_score": 29.18105697631836
+    },
+    "summer-41-to-autumn": {
+        "lpips": 0.22528783977031708,
+        "clip_score": 31.819168090820312
+    },
+    "summer-41-to-winter": {
+        "lpips": 0.17306827008724213,
+        "clip_score": 26.944255828857422
+    },
+    "summer-42-to-spring": {
+        "lpips": 0.08468498289585114,
+        "clip_score": 33.20013427734375
+    },
+    "summer-42-to-autumn": {
+        "lpips": 0.10017990320920944,
+        "clip_score": 32.039608001708984
+    },
+    "summer-42-to-winter": {
+        "lpips": 0.10258729755878448,
+        "clip_score": 31.186050415039062
+    },
+    "summer-43-to-spring": {
+        "lpips": 0.12178562581539154,
+        "clip_score": 32.174278259277344
+    },
+    "summer-43-to-autumn": {
+        "lpips": 0.13044045865535736,
+        "clip_score": 32.17164611816406
+    },
+    "summer-43-to-winter": {
+        "lpips": 0.10907024145126343,
+        "clip_score": 32.01789855957031
+    },
+    "summer-44-to-spring": {
+        "lpips": 0.14585493505001068,
+        "clip_score": 32.551116943359375
+    },
+    "summer-44-to-autumn": {
+        "lpips": 0.12621363997459412,
+        "clip_score": 31.84366226196289
+    },
+    "summer-44-to-winter": {
+        "lpips": 0.14336368441581726,
+        "clip_score": 32.65221405029297
+    },
+    "summer-45-to-spring": {
+        "lpips": 0.1015358418226242,
+        "clip_score": 31.823408126831055
+    },
+    "summer-45-to-autumn": {
+        "lpips": 0.1665114313364029,
+        "clip_score": 32.87064743041992
+    },
+    "summer-45-to-winter": {
+        "lpips": 0.10529483109712601,
+        "clip_score": 29.379934310913086
+    },
+    "summer-46-to-spring": {
+        "lpips": 0.11605919897556305,
+        "clip_score": 33.2255859375
+    },
+    "summer-46-to-autumn": {
+        "lpips": 0.10524487495422363,
+        "clip_score": 33.86661911010742
+    },
+    "summer-46-to-winter": {
+        "lpips": 0.19378143548965454,
+        "clip_score": 32.18413162231445
+    },
+    "summer-47-to-spring": {
+        "lpips": 0.07001564651727676,
+        "clip_score": 30.70289421081543
+    },
+    "summer-47-to-autumn": {
+        "lpips": 0.12781399488449097,
+        "clip_score": 32.94603729248047
+    },
+    "summer-47-to-winter": {
+        "lpips": 0.11540193110704422,
+        "clip_score": 32.748504638671875
+    },
+    "summer-48-to-spring": {
+        "lpips": 0.18380844593048096,
+        "clip_score": 30.52167510986328
+    },
+    "summer-48-to-autumn": {
+        "lpips": 0.22471070289611816,
+        "clip_score": 31.23706817626953
+    },
+    "summer-48-to-winter": {
+        "lpips": 0.18320918083190918,
+        "clip_score": 30.226078033447266
+    },
+    "summer-49-to-spring": {
+        "lpips": 0.07978256791830063,
+        "clip_score": 31.1275691986084
+    },
+    "summer-49-to-autumn": {
+        "lpips": 0.19877147674560547,
+        "clip_score": 32.554866790771484
+    },
+    "summer-49-to-winter": {
+        "lpips": 0.15672701597213745,
+        "clip_score": 29.305654525756836
+    },
+    "summer-50-to-spring": {
+        "lpips": 0.10488348454236984,
+        "clip_score": 32.090415954589844
+    },
+    "summer-50-to-autumn": {
+        "lpips": 0.08914101123809814,
+        "clip_score": 30.763839721679688
+    },
+    "summer-50-to-winter": {
+        "lpips": 0.08678609132766724,
+        "clip_score": 30.75774574279785
+    },
+    "summer-51-to-spring": {
+        "lpips": 0.21907827258110046,
+        "clip_score": 31.993738174438477
+    },
+    "summer-51-to-autumn": {
+        "lpips": 0.20483455061912537,
+        "clip_score": 31.91635513305664
+    },
+    "summer-51-to-winter": {
+        "lpips": 0.22712114453315735,
+        "clip_score": 32.58000183105469
+    },
+    "summer-52-to-spring": {
+        "lpips": 0.07362236827611923,
+        "clip_score": 30.566877365112305
+    },
+    "summer-52-to-autumn": {
+        "lpips": 0.10286121070384979,
+        "clip_score": 31.10773277282715
+    },
+    "summer-52-to-winter": {
+        "lpips": 0.08534803241491318,
+        "clip_score": 29.94884490966797
+    },
+    "summer-53-to-spring": {
+        "lpips": 0.08664450794458389,
+        "clip_score": 34.585662841796875
+    },
+    "summer-53-to-autumn": {
+        "lpips": 0.08674818277359009,
+        "clip_score": 36.42666244506836
+    },
+    "summer-53-to-winter": {
+        "lpips": 0.09479082375764847,
+        "clip_score": 33.07109069824219
+    },
+    "autumn-05-to-spring": {
+        "lpips": 0.15202905237674713,
+        "clip_score": 31.597793579101562
+    },
+    "autumn-05-to-summer": {
+        "lpips": 0.15496422350406647,
+        "clip_score": 32.66204071044922
+    },
+    "autumn-05-to-winter": {
+        "lpips": 0.1206621378660202,
+        "clip_score": 31.684473037719727
+    },
+    "autumn-06-to-spring": {
+        "lpips": 0.13097332417964935,
+        "clip_score": 33.412635803222656
+    },
+    "autumn-06-to-summer": {
+        "lpips": 0.15042085945606232,
+        "clip_score": 33.17269515991211
+    },
+    "autumn-06-to-winter": {
+        "lpips": 0.11891024559736252,
+        "clip_score": 31.135379791259766
+    },
+    "autumn-07-to-spring": {
+        "lpips": 0.0654764473438263,
+        "clip_score": 30.447574615478516
+    },
+    "autumn-07-to-summer": {
+        "lpips": 0.08964833617210388,
+        "clip_score": 31.725341796875
+    },
+    "autumn-07-to-winter": {
+        "lpips": 0.08644208312034607,
+        "clip_score": 31.944868087768555
+    },
+    "autumn-08-to-spring": {
+        "lpips": 0.14616285264492035,
+        "clip_score": 27.736568450927734
+    },
+    "autumn-08-to-summer": {
+        "lpips": 0.13606391847133636,
+        "clip_score": 27.997329711914062
+    },
+    "autumn-08-to-winter": {
+        "lpips": 0.15557003021240234,
+        "clip_score": 29.023128509521484
+    },
+    "autumn-09-to-spring": {
+        "lpips": 0.11322863399982452,
+        "clip_score": 29.904890060424805
+    },
+    "autumn-09-to-summer": {
+        "lpips": 0.10358447581529617,
+        "clip_score": 30.554134368896484
+    },
+    "autumn-09-to-winter": {
+        "lpips": 0.13440284132957458,
+        "clip_score": 30.958866119384766
+    },
+    "autumn-10-to-spring": {
+        "lpips": 0.2044460028409958,
+        "clip_score": 29.333669662475586
+    },
+    "autumn-10-to-summer": {
+        "lpips": 0.2613063156604767,
+        "clip_score": 29.852798461914062
+    },
+    "autumn-10-to-winter": {
+        "lpips": 0.20099139213562012,
+        "clip_score": 31.52484893798828
+    },
+    "autumn-11-to-spring": {
+        "lpips": 0.10454841703176498,
+        "clip_score": 32.85055923461914
+    },
+    "autumn-11-to-summer": {
+        "lpips": 0.13230054080486298,
+        "clip_score": 32.565860748291016
+    },
+    "autumn-11-to-winter": {
+        "lpips": 0.09419921040534973,
+        "clip_score": 32.93705368041992
+    },
+    "autumn-12-to-spring": {
+        "lpips": 0.1452384889125824,
+        "clip_score": 30.693281173706055
+    },
+    "autumn-12-to-summer": {
+        "lpips": 0.18007594347000122,
+        "clip_score": 29.69318962097168
+    },
+    "autumn-12-to-winter": {
+        "lpips": 0.11534787714481354,
+        "clip_score": 31.408809661865234
+    },
+    "autumn-13-to-spring": {
+        "lpips": 0.15520790219306946,
+        "clip_score": 32.753623962402344
+    },
+    "autumn-13-to-summer": {
+        "lpips": 0.16966138780117035,
+        "clip_score": 30.912887573242188
+    },
+    "autumn-13-to-winter": {
+        "lpips": 0.18219970166683197,
+        "clip_score": 32.38956832885742
+    },
+    "autumn-14-to-spring": {
+        "lpips": 0.0926113873720169,
+        "clip_score": 31.297094345092773
+    },
+    "autumn-14-to-summer": {
+        "lpips": 0.09490669518709183,
+        "clip_score": 31.15726089477539
+    },
+    "autumn-14-to-winter": {
+        "lpips": 0.07766816765069962,
+        "clip_score": 31.735191345214844
+    },
+    "autumn-15-to-spring": {
+        "lpips": 0.12679968774318695,
+        "clip_score": 28.505521774291992
+    },
+    "autumn-15-to-summer": {
+        "lpips": 0.15733036398887634,
+        "clip_score": 29.07940673828125
+    },
+    "autumn-15-to-winter": {
+        "lpips": 0.12929056584835052,
+        "clip_score": 28.943431854248047
+    },
+    "autumn-16-to-spring": {
+        "lpips": 0.08528301119804382,
+        "clip_score": 29.36212730407715
+    },
+    "autumn-16-to-summer": {
+        "lpips": 0.0924900695681572,
+        "clip_score": 28.901514053344727
+    },
+    "autumn-16-to-winter": {
+        "lpips": 0.10365943610668182,
+        "clip_score": 30.856250762939453
+    },
+    "autumn-17-to-spring": {
+        "lpips": 0.12987172603607178,
+        "clip_score": 29.654254913330078
+    },
+    "autumn-17-to-summer": {
+        "lpips": 0.16759538650512695,
+        "clip_score": 30.6884765625
+    },
+    "autumn-17-to-winter": {
+        "lpips": 0.08299168944358826,
+        "clip_score": 30.00112533569336
+    },
+    "autumn-18-to-spring": {
+        "lpips": 0.12882907688617706,
+        "clip_score": 29.058435440063477
+    },
+    "autumn-18-to-summer": {
+        "lpips": 0.1448609083890915,
+        "clip_score": 30.790725708007812
+    },
+    "autumn-18-to-winter": {
+        "lpips": 0.12848502397537231,
+        "clip_score": 32.41181182861328
+    },
+    "autumn-19-to-spring": {
+        "lpips": 0.2324027121067047,
+        "clip_score": 27.455129623413086
+    },
+    "autumn-19-to-summer": {
+        "lpips": 0.3070923388004303,
+        "clip_score": 26.884170532226562
+    },
+    "autumn-19-to-winter": {
+        "lpips": 0.24711526930332184,
+        "clip_score": 28.693077087402344
+    },
+    "autumn-20-to-spring": {
+        "lpips": 0.10413063317537308,
+        "clip_score": 31.345474243164062
+    },
+    "autumn-20-to-summer": {
+        "lpips": 0.1308322548866272,
+        "clip_score": 32.627506256103516
+    },
+    "autumn-20-to-winter": {
+        "lpips": 0.06719981878995895,
+        "clip_score": 32.51636505126953
+    },
+    "autumn-21-to-spring": {
+        "lpips": 0.14746049046516418,
+        "clip_score": 28.97171974182129
+    },
+    "autumn-21-to-summer": {
+        "lpips": 0.1491246521472931,
+        "clip_score": 29.83051872253418
+    },
+    "autumn-21-to-winter": {
+        "lpips": 0.10715979337692261,
+        "clip_score": 29.903966903686523
+    },
+    "autumn-22-to-spring": {
+        "lpips": 0.2744086980819702,
+        "clip_score": 29.596132278442383
+    },
+    "autumn-22-to-summer": {
+        "lpips": 0.30340853333473206,
+        "clip_score": 29.765018463134766
+    },
+    "autumn-22-to-winter": {
+        "lpips": 0.30612286925315857,
+        "clip_score": 31.4052791595459
+    },
+    "autumn-23-to-spring": {
+        "lpips": 0.16251695156097412,
+        "clip_score": 30.663660049438477
+    },
+    "autumn-23-to-summer": {
+        "lpips": 0.156676784157753,
+        "clip_score": 30.02358055114746
+    },
+    "autumn-23-to-winter": {
+        "lpips": 0.17668020725250244,
+        "clip_score": 31.113492965698242
+    },
+    "autumn-24-to-spring": {
+        "lpips": 0.20237135887145996,
+        "clip_score": 29.228055953979492
+    },
+    "autumn-24-to-summer": {
+        "lpips": 0.21082265675067902,
+        "clip_score": 31.26296043395996
+    },
+    "autumn-24-to-winter": {
+        "lpips": 0.1874655783176422,
+        "clip_score": 30.13532257080078
+    },
+    "autumn-25-to-spring": {
+        "lpips": 0.174471914768219,
+        "clip_score": 29.265287399291992
+    },
+    "autumn-25-to-summer": {
+        "lpips": 0.1883307844400406,
+        "clip_score": 28.5972900390625
+    },
+    "autumn-25-to-winter": {
+        "lpips": 0.17624062299728394,
+        "clip_score": 30.17806625366211
+    },
+    "autumn-26-to-spring": {
+        "lpips": 0.16783516108989716,
+        "clip_score": 29.591712951660156
+    },
+    "autumn-26-to-summer": {
+        "lpips": 0.20468342304229736,
+        "clip_score": 30.610424041748047
+    },
+    "autumn-26-to-winter": {
+        "lpips": 0.2235075980424881,
+        "clip_score": 31.5610294342041
+    },
+    "autumn-27-to-spring": {
+        "lpips": 0.28068917989730835,
+        "clip_score": 27.83626365661621
+    },
+    "autumn-27-to-summer": {
+        "lpips": 0.2679680287837982,
+        "clip_score": 28.241371154785156
+    },
+    "autumn-27-to-winter": {
+        "lpips": 0.24962550401687622,
+        "clip_score": 28.210145950317383
+    },
+    "autumn-28-to-spring": {
+        "lpips": 0.2273353785276413,
+        "clip_score": 32.68989181518555
+    },
+    "autumn-28-to-summer": {
+        "lpips": 0.2373313009738922,
+        "clip_score": 32.26654815673828
+    },
+    "autumn-28-to-winter": {
+        "lpips": 0.19960929453372955,
+        "clip_score": 32.52083206176758
+    },
+    "autumn-29-to-spring": {
+        "lpips": 0.07233849912881851,
+        "clip_score": 33.134098052978516
+    },
+    "autumn-29-to-summer": {
+        "lpips": 0.07954992353916168,
+        "clip_score": 32.95415496826172
+    },
+    "autumn-29-to-winter": {
+        "lpips": 0.06910295784473419,
+        "clip_score": 33.15257263183594
+    },
+    "autumn-30-to-spring": {
+        "lpips": 0.1545192152261734,
+        "clip_score": 31.88389778137207
+    },
+    "autumn-30-to-summer": {
+        "lpips": 0.17081333696842194,
+        "clip_score": 31.524381637573242
+    },
+    "autumn-30-to-winter": {
+        "lpips": 0.21301892399787903,
+        "clip_score": 32.393348693847656
+    },
+    "autumn-31-to-spring": {
+        "lpips": 0.09962199628353119,
+        "clip_score": 29.241132736206055
+    },
+    "autumn-31-to-summer": {
+        "lpips": 0.11225567758083344,
+        "clip_score": 29.4362850189209
+    },
+    "autumn-31-to-winter": {
+        "lpips": 0.11072380095720291,
+        "clip_score": 28.76022720336914
+    },
+    "autumn-32-to-spring": {
+        "lpips": 0.20018889009952545,
+        "clip_score": 32.17582321166992
+    },
+    "autumn-32-to-summer": {
+        "lpips": 0.18898390233516693,
+        "clip_score": 32.47705078125
+    },
+    "autumn-32-to-winter": {
+        "lpips": 0.2187545895576477,
+        "clip_score": 33.979610443115234
+    },
+    "autumn-33-to-spring": {
+        "lpips": 0.06750215590000153,
+        "clip_score": 27.481122970581055
+    },
+    "autumn-33-to-summer": {
+        "lpips": 0.10744678229093552,
+        "clip_score": 32.4655876159668
+    },
+    "autumn-33-to-winter": {
+        "lpips": 0.05629175528883934,
+        "clip_score": 30.8994083404541
+    },
+    "autumn-34-to-spring": {
+        "lpips": 0.15272872149944305,
+        "clip_score": 30.061426162719727
+    },
+    "autumn-34-to-summer": {
+        "lpips": 0.17120231688022614,
+        "clip_score": 31.19637680053711
+    },
+    "autumn-34-to-winter": {
+        "lpips": 0.1840013712644577,
+        "clip_score": 31.408313751220703
+    },
+    "autumn-35-to-spring": {
+        "lpips": 0.2427419275045395,
+        "clip_score": 33.07311248779297
+    },
+    "autumn-35-to-summer": {
+        "lpips": 0.23788398504257202,
+        "clip_score": 32.02147674560547
+    },
+    "autumn-35-to-winter": {
+        "lpips": 0.23096592724323273,
+        "clip_score": 32.81544876098633
+    },
+    "autumn-36-to-spring": {
+        "lpips": 0.14553160965442657,
+        "clip_score": 29.307926177978516
+    },
+    "autumn-36-to-summer": {
+        "lpips": 0.15538379549980164,
+        "clip_score": 30.519216537475586
+    },
+    "autumn-36-to-winter": {
+        "lpips": 0.144301176071167,
+        "clip_score": 31.705718994140625
+    },
+    "autumn-37-to-spring": {
+        "lpips": 0.09813360124826431,
+        "clip_score": 29.649362564086914
+    },
+    "autumn-37-to-summer": {
+        "lpips": 0.11812736093997955,
+        "clip_score": 30.89894676208496
+    },
+    "autumn-37-to-winter": {
+        "lpips": 0.08972008526325226,
+        "clip_score": 30.430471420288086
+    },
+    "autumn-38-to-spring": {
+        "lpips": 0.11078109592199326,
+        "clip_score": 31.57501220703125
+    },
+    "autumn-38-to-summer": {
+        "lpips": 0.1000174731016159,
+        "clip_score": 28.697364807128906
+    },
+    "autumn-38-to-winter": {
+        "lpips": 0.14129003882408142,
+        "clip_score": 31.473974227905273
+    },
+    "autumn-39-to-spring": {
+        "lpips": 0.09930253028869629,
+        "clip_score": 29.331195831298828
+    },
+    "autumn-39-to-summer": {
+        "lpips": 0.10964302718639374,
+        "clip_score": 29.374509811401367
+    },
+    "autumn-39-to-winter": {
+        "lpips": 0.10243406891822815,
+        "clip_score": 28.133586883544922
+    },
+    "autumn-40-to-spring": {
+        "lpips": 0.0966416671872139,
+        "clip_score": 31.33607292175293
+    },
+    "autumn-40-to-summer": {
+        "lpips": 0.12110275030136108,
+        "clip_score": 31.739572525024414
+    },
+    "autumn-40-to-winter": {
+        "lpips": 0.11523447930812836,
+        "clip_score": 32.457183837890625
+    },
+    "autumn-41-to-spring": {
+        "lpips": 0.2112075537443161,
+        "clip_score": 32.22502899169922
+    },
+    "autumn-41-to-summer": {
+        "lpips": 0.25987738370895386,
+        "clip_score": 32.82199478149414
+    },
+    "autumn-41-to-winter": {
+        "lpips": 0.23860430717468262,
+        "clip_score": 31.7377872467041
+    },
+    "autumn-42-to-spring": {
+        "lpips": 0.18352964520454407,
+        "clip_score": 32.15838623046875
+    },
+    "autumn-42-to-summer": {
+        "lpips": 0.177125945687294,
+        "clip_score": 30.364517211914062
+    },
+    "autumn-42-to-winter": {
+        "lpips": 0.2001633495092392,
+        "clip_score": 32.052940368652344
+    },
+    "autumn-43-to-spring": {
+        "lpips": 0.18838675320148468,
+        "clip_score": 31.644790649414062
+    },
+    "autumn-43-to-summer": {
+        "lpips": 0.194900244474411,
+        "clip_score": 29.940685272216797
+    },
+    "autumn-43-to-winter": {
+        "lpips": 0.21579214930534363,
+        "clip_score": 30.367788314819336
+    },
+    "autumn-44-to-spring": {
+        "lpips": 0.11106501519680023,
+        "clip_score": 32.38435745239258
+    },
+    "autumn-44-to-summer": {
+        "lpips": 0.11505544185638428,
+        "clip_score": 31.30091094970703
+    },
+    "autumn-44-to-winter": {
+        "lpips": 0.11917431652545929,
+        "clip_score": 32.21319580078125
+    },
+    "autumn-45-to-spring": {
+        "lpips": 0.1647612750530243,
+        "clip_score": 28.069799423217773
+    },
+    "autumn-45-to-summer": {
+        "lpips": 0.1955118328332901,
+        "clip_score": 29.846786499023438
+    },
+    "autumn-45-to-winter": {
+        "lpips": 0.2204534262418747,
+        "clip_score": 29.67076873779297
+    },
+    "autumn-46-to-spring": {
+        "lpips": 0.17977236211299896,
+        "clip_score": 32.393714904785156
+    },
+    "autumn-46-to-summer": {
+        "lpips": 0.1795460730791092,
+        "clip_score": 32.429168701171875
+    },
+    "autumn-46-to-winter": {
+        "lpips": 0.1708308458328247,
+        "clip_score": 30.88749885559082
+    },
+    "autumn-47-to-spring": {
+        "lpips": 0.14776511490345,
+        "clip_score": 28.76991844177246
+    },
+    "autumn-47-to-summer": {
+        "lpips": 0.21465517580509186,
+        "clip_score": 28.42848014831543
+    },
+    "autumn-47-to-winter": {
+        "lpips": 0.1520923674106598,
+        "clip_score": 28.764129638671875
+    },
+    "autumn-48-to-spring": {
+        "lpips": 0.18862031400203705,
+        "clip_score": 34.19316864013672
+    },
+    "autumn-48-to-summer": {
+        "lpips": 0.18116185069084167,
+        "clip_score": 33.6601448059082
+    },
+    "autumn-48-to-winter": {
+        "lpips": 0.17816881835460663,
+        "clip_score": 32.710689544677734
+    },
+    "autumn-49-to-spring": {
+        "lpips": 0.17416167259216309,
+        "clip_score": 31.112075805664062
+    },
+    "autumn-49-to-summer": {
+        "lpips": 0.2382112592458725,
+        "clip_score": 30.824235916137695
+    },
+    "autumn-49-to-winter": {
+        "lpips": 0.22756151854991913,
+        "clip_score": 31.795257568359375
+    },
+    "autumn-50-to-spring": {
+        "lpips": 0.13518819212913513,
+        "clip_score": 31.788223266601562
+    },
+    "autumn-50-to-summer": {
+        "lpips": 0.14605754613876343,
+        "clip_score": 30.046838760375977
+    },
+    "autumn-50-to-winter": {
+        "lpips": 0.10613330453634262,
+        "clip_score": 28.29458999633789
+    },
+    "autumn-51-to-spring": {
+        "lpips": 0.1755954474210739,
+        "clip_score": 28.724533081054688
+    },
+    "autumn-51-to-summer": {
+        "lpips": 0.18395082652568817,
+        "clip_score": 26.79073715209961
+    },
+    "autumn-51-to-winter": {
+        "lpips": 0.21026533842086792,
+        "clip_score": 28.86551856994629
+    },
+    "autumn-52-to-spring": {
+        "lpips": 0.12188278138637543,
+        "clip_score": 30.72747039794922
+    },
+    "autumn-52-to-summer": {
+        "lpips": 0.16496403515338898,
+        "clip_score": 29.848569869995117
+    },
+    "autumn-52-to-winter": {
+        "lpips": 0.11578378826379776,
+        "clip_score": 28.03771209716797
+    },
+    "winter-13-to-spring": {
+        "lpips": 0.20127373933792114,
+        "clip_score": 31.561220169067383
+    },
+    "winter-13-to-summer": {
+        "lpips": 0.1668880730867386,
+        "clip_score": 31.6464900970459
+    },
+    "winter-13-to-autumn": {
+        "lpips": 0.15327899158000946,
+        "clip_score": 30.96697998046875
+    },
+    "winter-14-to-spring": {
+        "lpips": 0.09684346616268158,
+        "clip_score": 30.146533966064453
+    },
+    "winter-14-to-summer": {
+        "lpips": 0.08786629885435104,
+        "clip_score": 30.806610107421875
+    },
+    "winter-14-to-autumn": {
+        "lpips": 0.09904502332210541,
+        "clip_score": 31.497093200683594
+    },
+    "winter-15-to-spring": {
+        "lpips": 0.1283419132232666,
+        "clip_score": 28.944551467895508
+    },
+    "winter-15-to-summer": {
+        "lpips": 0.2006550431251526,
+        "clip_score": 32.354827880859375
+    },
+    "winter-15-to-autumn": {
+        "lpips": 0.15828348696231842,
+        "clip_score": 30.360836029052734
+    },
+    "winter-16-to-spring": {
+        "lpips": 0.1504683941602707,
+        "clip_score": 29.7952823638916
+    },
+    "winter-16-to-summer": {
+        "lpips": 0.16147954761981964,
+        "clip_score": 30.33053970336914
+    },
+    "winter-16-to-autumn": {
+        "lpips": 0.134312704205513,
+        "clip_score": 31.59453010559082
+    },
+    "winter-17-to-spring": {
+        "lpips": 0.1894843429327011,
+        "clip_score": 28.106159210205078
+    },
+    "winter-17-to-summer": {
+        "lpips": 0.2588997185230255,
+        "clip_score": 29.566627502441406
+    },
+    "winter-17-to-autumn": {
+        "lpips": 0.21595439314842224,
+        "clip_score": 31.86526870727539
+    },
+    "winter-18-to-spring": {
+        "lpips": 0.14203831553459167,
+        "clip_score": 31.167339324951172
+    },
+    "winter-18-to-summer": {
+        "lpips": 0.16266633570194244,
+        "clip_score": 32.412261962890625
+    },
+    "winter-18-to-autumn": {
+        "lpips": 0.14668166637420654,
+        "clip_score": 31.023094177246094
+    },
+    "winter-19-to-spring": {
+        "lpips": 0.132188618183136,
+        "clip_score": 32.45943069458008
+    },
+    "winter-19-to-summer": {
+        "lpips": 0.1167638897895813,
+        "clip_score": 31.423860549926758
+    },
+    "winter-19-to-autumn": {
+        "lpips": 0.08414200693368912,
+        "clip_score": 31.216251373291016
+    },
+    "winter-20-to-spring": {
+        "lpips": 0.18115335702896118,
+        "clip_score": 30.50448989868164
+    },
+    "winter-20-to-summer": {
+        "lpips": 0.1658518761396408,
+        "clip_score": 31.293899536132812
+    },
+    "winter-20-to-autumn": {
+        "lpips": 0.1301843822002411,
+        "clip_score": 29.322999954223633
+    },
+    "winter-21-to-spring": {
+        "lpips": 0.21080034971237183,
+        "clip_score": 31.28644561767578
+    },
+    "winter-21-to-summer": {
+        "lpips": 0.162848562002182,
+        "clip_score": 32.063167572021484
+    },
+    "winter-21-to-autumn": {
+        "lpips": 0.19447210431098938,
+        "clip_score": 31.36507797241211
+    },
+    "winter-22-to-spring": {
+        "lpips": 0.10800639539957047,
+        "clip_score": 28.689489364624023
+    },
+    "winter-22-to-summer": {
+        "lpips": 0.08580386638641357,
+        "clip_score": 29.00799560546875
+    },
+    "winter-22-to-autumn": {
+        "lpips": 0.08043064177036285,
+        "clip_score": 28.319581985473633
+    },
+    "winter-23-to-spring": {
+        "lpips": 0.12766525149345398,
+        "clip_score": 29.835546493530273
+    },
+    "winter-23-to-summer": {
+        "lpips": 0.17024166882038116,
+        "clip_score": 28.587766647338867
+    },
+    "winter-23-to-autumn": {
+        "lpips": 0.19306139647960663,
+        "clip_score": 30.192787170410156
+    },
+    "winter-24-to-spring": {
+        "lpips": 0.13351872563362122,
+        "clip_score": 32.01353073120117
+    },
+    "winter-24-to-summer": {
+        "lpips": 0.12832683324813843,
+        "clip_score": 31.67925262451172
+    },
+    "winter-24-to-autumn": {
+        "lpips": 0.13838589191436768,
+        "clip_score": 30.86208152770996
+    },
+    "winter-25-to-spring": {
+        "lpips": 0.13034741580486298,
+        "clip_score": 29.277366638183594
+    },
+    "winter-25-to-summer": {
+        "lpips": 0.10826419293880463,
+        "clip_score": 31.1217098236084
+    },
+    "winter-25-to-autumn": {
+        "lpips": 0.12192411720752716,
+        "clip_score": 28.94508171081543
+    },
+    "winter-26-to-spring": {
+        "lpips": 0.12693560123443604,
+        "clip_score": 30.337989807128906
+    },
+    "winter-26-to-summer": {
+        "lpips": 0.12332183122634888,
+        "clip_score": 30.277484893798828
+    },
+    "winter-26-to-autumn": {
+        "lpips": 0.10750887542963028,
+        "clip_score": 30.796184539794922
+    },
+    "winter-27-to-spring": {
+        "lpips": 0.1653147041797638,
+        "clip_score": 32.80451583862305
+    },
+    "winter-27-to-summer": {
+        "lpips": 0.12674491107463837,
+        "clip_score": 33.60825729370117
+    },
+    "winter-27-to-autumn": {
+        "lpips": 0.13662098348140717,
+        "clip_score": 32.03192901611328
+    },
+    "winter-28-to-spring": {
+        "lpips": 0.14676937460899353,
+        "clip_score": 32.83055877685547
+    },
+    "winter-28-to-summer": {
+        "lpips": 0.12663915753364563,
+        "clip_score": 32.74604797363281
+    },
+    "winter-28-to-autumn": {
+        "lpips": 0.12971767783164978,
+        "clip_score": 32.9300651550293
+    },
+    "winter-29-to-spring": {
+        "lpips": 0.21439556777477264,
+        "clip_score": 32.44900894165039
+    },
+    "winter-29-to-summer": {
+        "lpips": 0.23688775300979614,
+        "clip_score": 34.106170654296875
+    },
+    "winter-29-to-autumn": {
+        "lpips": 0.19001898169517517,
+        "clip_score": 32.41352844238281
+    },
+    "winter-30-to-spring": {
+        "lpips": 0.16497865319252014,
+        "clip_score": 31.033435821533203
+    },
+    "winter-30-to-summer": {
+        "lpips": 0.17926248908042908,
+        "clip_score": 28.281766891479492
+    },
+    "winter-30-to-autumn": {
+        "lpips": 0.2217949479818344,
+        "clip_score": 31.623226165771484
+    },
+    "winter-31-to-spring": {
+        "lpips": 0.07843520492315292,
+        "clip_score": 30.874792098999023
+    },
+    "winter-31-to-summer": {
+        "lpips": 0.09919946640729904,
+        "clip_score": 32.05290603637695
+    },
+    "winter-31-to-autumn": {
+        "lpips": 0.07604625821113586,
+        "clip_score": 30.083030700683594
+    },
+    "winter-32-to-spring": {
+        "lpips": 0.08470746129751205,
+        "clip_score": 31.560192108154297
+    },
+    "winter-32-to-summer": {
+        "lpips": 0.06915488839149475,
+        "clip_score": 31.958293914794922
+    },
+    "winter-32-to-autumn": {
+        "lpips": 0.07936091721057892,
+        "clip_score": 32.46723556518555
+    },
+    "winter-33-to-spring": {
+        "lpips": 0.14960134029388428,
+        "clip_score": 31.880151748657227
+    },
+    "winter-33-to-summer": {
+        "lpips": 0.20257198810577393,
+        "clip_score": 29.580333709716797
+    },
+    "winter-33-to-autumn": {
+        "lpips": 0.20621290802955627,
+        "clip_score": 32.5120849609375
+    },
+    "winter-34-to-spring": {
+        "lpips": 0.15201176702976227,
+        "clip_score": 31.401264190673828
+    },
+    "winter-34-to-summer": {
+        "lpips": 0.1251109093427658,
+        "clip_score": 31.644994735717773
+    },
+    "winter-34-to-autumn": {
+        "lpips": 0.12453793734312057,
+        "clip_score": 29.5386905670166
+    },
+    "winter-35-to-spring": {
+        "lpips": 0.17314179241657257,
+        "clip_score": 32.1936149597168
+    },
+    "winter-35-to-summer": {
+        "lpips": 0.169343963265419,
+        "clip_score": 33.247093200683594
+    },
+    "winter-35-to-autumn": {
+        "lpips": 0.15952661633491516,
+        "clip_score": 30.801700592041016
+    },
+    "winter-36-to-spring": {
+        "lpips": 0.11027596145868301,
+        "clip_score": 31.16189193725586
+    },
+    "winter-36-to-summer": {
+        "lpips": 0.13304777443408966,
+        "clip_score": 30.67797088623047
+    },
+    "winter-36-to-autumn": {
+        "lpips": 0.10341823846101761,
+        "clip_score": 30.529706954956055
+    },
+    "winter-37-to-spring": {
+        "lpips": 0.08939582109451294,
+        "clip_score": 31.538694381713867
+    },
+    "winter-37-to-summer": {
+        "lpips": 0.10556700080633163,
+        "clip_score": 31.58237075805664
+    },
+    "winter-37-to-autumn": {
+        "lpips": 0.08222195506095886,
+        "clip_score": 30.88919448852539
+    },
+    "winter-38-to-spring": {
+        "lpips": 0.11541372537612915,
+        "clip_score": 30.679569244384766
+    },
+    "winter-38-to-summer": {
+        "lpips": 0.14053425192832947,
+        "clip_score": 29.893693923950195
+    },
+    "winter-38-to-autumn": {
+        "lpips": 0.1536245495080948,
+        "clip_score": 31.94309425354004
+    },
+    "winter-39-to-spring": {
+        "lpips": 0.14087803661823273,
+        "clip_score": 30.333328247070312
+    },
+    "winter-39-to-summer": {
+        "lpips": 0.13437385857105255,
+        "clip_score": 30.636310577392578
+    },
+    "winter-39-to-autumn": {
+        "lpips": 0.13319382071495056,
+        "clip_score": 30.630430221557617
+    },
+    "winter-40-to-spring": {
+        "lpips": 0.19644440710544586,
+        "clip_score": 31.029272079467773
+    },
+    "winter-40-to-summer": {
+        "lpips": 0.23343273997306824,
+        "clip_score": 29.89763069152832
+    },
+    "winter-40-to-autumn": {
+        "lpips": 0.31237009167671204,
+        "clip_score": 31.490808486938477
+    },
+    "winter-41-to-spring": {
+        "lpips": 0.16632184386253357,
+        "clip_score": 31.38485336303711
+    },
+    "winter-41-to-summer": {
+        "lpips": 0.14126372337341309,
+        "clip_score": 31.5438175201416
+    },
+    "winter-41-to-autumn": {
+        "lpips": 0.15555250644683838,
+        "clip_score": 32.08418655395508
+    },
+    "winter-42-to-spring": {
+        "lpips": 0.08166317641735077,
+        "clip_score": 31.632413864135742
+    },
+    "winter-42-to-summer": {
+        "lpips": 0.06543310731649399,
+        "clip_score": 30.18562126159668
+    },
+    "winter-42-to-autumn": {
+        "lpips": 0.10614118725061417,
+        "clip_score": 30.75652503967285
+    },
+    "winter-43-to-spring": {
+        "lpips": 0.1964835226535797,
+        "clip_score": 30.127037048339844
+    },
+    "winter-43-to-summer": {
+        "lpips": 0.17869947850704193,
+        "clip_score": 30.233600616455078
+    },
+    "winter-43-to-autumn": {
+        "lpips": 0.1846807897090912,
+        "clip_score": 29.734233856201172
+    },
+    "winter-44-to-spring": {
+        "lpips": 0.12015929073095322,
+        "clip_score": 30.81062126159668
+    },
+    "winter-44-to-summer": {
+        "lpips": 0.17439131438732147,
+        "clip_score": 29.557043075561523
+    },
+    "winter-44-to-autumn": {
+        "lpips": 0.18310250341892242,
+        "clip_score": 30.92750358581543
+    },
+    "winter-45-to-spring": {
+        "lpips": 0.0904628187417984,
+        "clip_score": 30.418399810791016
+    },
+    "winter-45-to-summer": {
+        "lpips": 0.08097109198570251,
+        "clip_score": 30.64690589904785
+    },
+    "winter-45-to-autumn": {
+        "lpips": 0.09028232097625732,
+        "clip_score": 30.61787223815918
+    },
+    "winter-46-to-spring": {
+        "lpips": 0.1369054764509201,
+        "clip_score": 29.604700088500977
+    },
+    "winter-46-to-summer": {
+        "lpips": 0.10552413761615753,
+        "clip_score": 30.055450439453125
+    },
+    "winter-46-to-autumn": {
+        "lpips": 0.1181817278265953,
+        "clip_score": 31.52632713317871
+    },
+    "winter-47-to-spring": {
+        "lpips": 0.1818755567073822,
+        "clip_score": 34.89104080200195
+    },
+    "winter-47-to-summer": {
+        "lpips": 0.22136475145816803,
+        "clip_score": 33.407073974609375
+    },
+    "winter-47-to-autumn": {
+        "lpips": 0.28388896584510803,
+        "clip_score": 36.36149597167969
+    },
+    "winter-48-to-spring": {
+        "lpips": 0.22173084318637848,
+        "clip_score": 30.842552185058594
+    },
+    "winter-48-to-summer": {
+        "lpips": 0.18466518819332123,
+        "clip_score": 31.471162796020508
+    },
+    "winter-48-to-autumn": {
+        "lpips": 0.19180651009082794,
+        "clip_score": 30.036252975463867
+    },
+    "winter-49-to-spring": {
+        "lpips": 0.1277296245098114,
+        "clip_score": 31.09978485107422
+    },
+    "winter-49-to-summer": {
+        "lpips": 0.12290902435779572,
+        "clip_score": 31.26486587524414
+    },
+    "winter-49-to-autumn": {
+        "lpips": 0.1293487548828125,
+        "clip_score": 30.60988426208496
+    },
+    "winter-50-to-spring": {
+        "lpips": 0.07657484710216522,
+        "clip_score": 29.321977615356445
+    },
+    "winter-50-to-summer": {
+        "lpips": 0.0753805860877037,
+        "clip_score": 29.93503761291504
+    },
+    "winter-50-to-autumn": {
+        "lpips": 0.05060512572526932,
+        "clip_score": 28.843915939331055
+    },
+    "winter-51-to-spring": {
+        "lpips": 0.1792435348033905,
+        "clip_score": 33.34206771850586
+    },
+    "winter-51-to-summer": {
+        "lpips": 0.10869681090116501,
+        "clip_score": 34.43355178833008
+    },
+    "winter-51-to-autumn": {
+        "lpips": 0.14216464757919312,
+        "clip_score": 33.696739196777344
+    },
+    "winter-52-to-spring": {
+        "lpips": 0.12922720611095428,
+        "clip_score": 30.674314498901367
+    },
+    "winter-52-to-summer": {
+        "lpips": 0.10667893290519714,
+        "clip_score": 31.568601608276367
+    },
+    "winter-52-to-autumn": {
+        "lpips": 0.10777225345373154,
+        "clip_score": 32.23240661621094
+    },
+    "winter-53-to-spring": {
+        "lpips": 0.08761055767536163,
+        "clip_score": 29.87871742248535
+    },
+    "winter-53-to-summer": {
+        "lpips": 0.06956569105386734,
+        "clip_score": 30.89991569519043
+    },
+    "winter-53-to-autumn": {
+        "lpips": 0.090472511947155,
+        "clip_score": 30.27572250366211
+    },
+    "winter-54-to-spring": {
+        "lpips": 0.09760947525501251,
+        "clip_score": 33.05876541137695
+    },
+    "winter-54-to-summer": {
+        "lpips": 0.08944880962371826,
+        "clip_score": 33.30972671508789
+    },
+    "winter-54-to-autumn": {
+        "lpips": 0.08089935034513474,
+        "clip_score": 32.906768798828125
     }
 }
