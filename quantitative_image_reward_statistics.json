@@ -1,0 +1,62 @@
+[
+    {
+        "source_season": "spring",
+        "target_season": "summer",
+        "avg_image_reward": 0.5410953100313837
+    },
+    {
+        "source_season": "spring",
+        "target_season": "autumn",
+        "avg_image_reward": 0.5705912733134234
+    },
+    {
+        "source_season": "spring",
+        "target_season": "winter",
+        "avg_image_reward": 0.4486371581179072
+    },
+    {
+        "source_season": "summer",
+        "target_season": "spring",
+        "avg_image_reward": 0.6922647177487752
+    },
+    {
+        "source_season": "summer",
+        "target_season": "autumn",
+        "avg_image_reward": 0.9262206716779268
+    },
+    {
+        "source_season": "summer",
+        "target_season": "winter",
+        "avg_image_reward": 0.5896584273487294
+    },
+    {
+        "source_season": "autumn",
+        "target_season": "spring",
+        "avg_image_reward": 0.6549657597564734
+    },
+    {
+        "source_season": "autumn",
+        "target_season": "summer",
+        "avg_image_reward": 0.7032340208355051
+    },
+    {
+        "source_season": "autumn",
+        "target_season": "winter",
+        "avg_image_reward": 0.5791329112477027
+    },
+    {
+        "source_season": "winter",
+        "target_season": "spring",
+        "avg_image_reward": 0.5085983383641751
+    },
+    {
+        "source_season": "winter",
+        "target_season": "summer",
+        "avg_image_reward": 0.3060540026571188
+    },
+    {
+        "source_season": "winter",
+        "target_season": "autumn",
+        "avg_image_reward": -0.11399154251234399
+    }
+]

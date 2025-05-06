@@ -1,0 +1,74 @@
+[
+    {
+        "source_season": "spring",
+        "target_season": "summer",
+        "avg_lpips": 0.13114521439586366,
+        "avg_clip_score": 30.655301230294363
+    },
+    {
+        "source_season": "spring",
+        "target_season": "autumn",
+        "avg_lpips": 0.17049369748149598,
+        "avg_clip_score": 32.89944212777274
+    },
+    {
+        "source_season": "spring",
+        "target_season": "winter",
+        "avg_lpips": 0.17527571320533752,
+        "avg_clip_score": 32.11023766653879
+    },
+    {
+        "source_season": "summer",
+        "target_season": "spring",
+        "avg_lpips": 0.0830276757478714,
+        "avg_clip_score": 31.744298299153645
+    },
+    {
+        "source_season": "summer",
+        "target_season": "autumn",
+        "avg_lpips": 0.11527743811408679,
+        "avg_clip_score": 33.968832651774086
+    },
+    {
+        "source_season": "summer",
+        "target_season": "winter",
+        "avg_lpips": 0.12075885012745857,
+        "avg_clip_score": 32.56896177927653
+    },
+    {
+        "source_season": "autumn",
+        "target_season": "spring",
+        "avg_lpips": 0.1517668254673481,
+        "avg_clip_score": 32.2529239654541
+    },
+    {
+        "source_season": "autumn",
+        "target_season": "summer",
+        "avg_lpips": 0.17510749772191048,
+        "avg_clip_score": 31.516496181488037
+    },
+    {
+        "source_season": "autumn",
+        "target_season": "winter",
+        "avg_lpips": 0.16095736622810364,
+        "avg_clip_score": 33.30002212524414
+    },
+    {
+        "source_season": "winter",
+        "target_season": "spring",
+        "avg_lpips": 0.11871683970093727,
+        "avg_clip_score": 32.20592657725016
+    },
+    {
+        "source_season": "winter",
+        "target_season": "summer",
+        "avg_lpips": 0.14385676508148512,
+        "avg_clip_score": 33.19616905848185
+    },
+    {
+        "source_season": "winter",
+        "target_season": "autumn",
+        "avg_lpips": 0.1759727243334055,
+        "avg_clip_score": 33.55320962270101
+    }
+]
