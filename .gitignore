@@ -1,3 +1,5 @@
 __pycache__/**
 config_yaml/**
 stable-diffusion-2-1-base/**
+
+output_compose_dir/**
